@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://issue-truck.github.io/sitemap.xml
