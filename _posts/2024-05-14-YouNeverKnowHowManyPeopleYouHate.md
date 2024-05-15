@@ -3,13 +3,12 @@ title: "당신이 실제로 싫어하는 사람의 수를 알 수 없다"
 description: ""
 coverImage: "/assets/img/2024-05-14-YouNeverKnowHowManyPeopleYouHate_0.png"
 date: 2024-05-14 22:41
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-14-YouNeverKnowHowManyPeopleYouHate_0.png
 tag: Tech
 originalTitle: "You Never Know How Many People You Hate"
 link: "https://medium.com/bouncin-and-behavin-blogs/you-never-know-how-many-people-you-hate-1958bcf2d5d5"
 ---
-
 
 ## 아기 이름
 
@@ -19,17 +18,13 @@ link: "https://medium.com/bouncin-and-behavin-blogs/you-never-know-how-many-peop
 
 이 아이 출산이 나에게 얼마나 비용이 드는지 모르겠네요. 건강 보험이 없는 자영업 부동산 중개인이랍니다.
 
+\*어이쿠, 이제 우리 집 거실을 그녀 어머니가 선택한 Pepto-Pink 색으로 칠해야 해. 정말 고상한 취향이시군요, 사랑하는 분.
 
-
-*어이쿠, 이제 우리 집 거실을 그녀 어머니가 선택한 Pepto-Pink 색으로 칠해야 해. 정말 고상한 취향이시군요, 사랑하는 분.
-
-*와, 초음파에서 그녀 신장을 감지하지 못했어? 그리고 양수가 부족하다구? 전문가 상담을 받을 수 있는 기회가 일주일 후라구? 그런데 그녀가 태어난 후 살아남지 못할수도 있지 않을까?
+\*와, 초음파에서 그녀 신장을 감지하지 못했어? 그리고 양수가 부족하다구? 전문가 상담을 받을 수 있는 기회가 일주일 후라구? 그런데 그녀가 태어난 후 살아남지 못할수도 있지 않을까?
 
 다행히도 이 모든 것들이 우리에게 유리하게 해결됐어. 그녀가 태어날 때 병원비가 $5000. 부동산 거래 한 건으로 그 돈을 벌었지, 문제없이. 그걸 칠할 때는 생활 취미로 그림을 그리던 우리 친구와 함께 했어. 전문가는 결국 양쪽 신장이 모두 있고 액체도 정상이라고 확언해 주셨어.
 
 부처님께 감사드립니다. 그러나 이제 우리는 임신 전체 기간 동안 가장 엉망진창한 문제에 대처해야 했어. 이 작은 아이에게 무슨 이름을 붙여야 할까? Bub? 주인집사? 세상에? 아님 그녀가 커서 자기가 원하는 이름을 고르게 둬야 할까? 나는 바비 프로벤시오라는 이름이 잘 어울리는 것 같지 않았다.
-
-
 
 ![Image](/assets/img/2024-05-14-YouNeverKnowHowManyPeopleYouHate_1.png)
 
@@ -39,49 +34,37 @@ link: "https://medium.com/bouncin-and-behavin-blogs/you-never-know-how-many-peop
 
 딸을 낳게 되었다는 것을 알면서, 우리는 우리의 자식의 이름을 정하려고 바삐 나섰어요. 첫 번째 단계는 바른스 앤 노블에서 아기 이름짓기 책을 몇 권 사 오는 것이었어요. 그 자체로도 대단한 경험이었죠.
 
-
-
 우리는 여러 분 동안 줄을 서 있었어요. 이 일은 아직 사람들이 서점에서 책을 읽고 쇼핑했던 2005년에 발생한 거거든. 아마존 배송 기사의 성과 이름, 부인의 이름, 그리고 그들 다섯 자녀의 이름을 알기에는 적어도 한 이십년이나 걸렸어요. 그들은 이제 가족이 되었어요.
 
 갑자기 줄에서 우리를 불쑥 떠밀치며 내 임신 중인 아내의 배를 문지르는 여성이 나타났어요. 예수 크리퍼, 수다쟁이 여성. 정말? 당신은 임신부 여성들 모두에게 이렇게 하는 거에요? 혹시 그녀가 그냥 버드와이저 케이스 하나 임신 중이었어도요? 그녀는 만지지 원하지 않아요. 제가 남편이니까 믿어 줘요.
 
 임신 중인 여성들이 본의아니게 다가오고 침범당하는 상황을 경험하는데 웃긴 건데요, 한편으로 조회 의지가 있는 여성들로부터 이런 일이 생기지 않는다는 거죠. 저는 아무 문제가 없었을 거예요. 한 20분 동안이나 그냥 제 소지품을 문지르면서 "오, 잘 했어요! 진짜 대단해요! 이제 진짜 잘 나온거야!"라고 말해 주면 말이에요.
 
-
-
 일치화된 웹 메시지를 포함한 후속 메시지를 읽고 있습니다. 이내 답장을 드리겠습니다.
-
-
 
 "진짜? 시니어 콜걸 같이요?"
 
 "아니에요, 그녀가 내 남자친구를 빼앗았어요. 거의 한 달 동안 사귀고 있었어요."
 
-"젠장. 알겠어." *크리스탈 이름 목록에서 제거. 우째냐, 너 년...
+"젠장. 알겠어." \*크리스탈 이름 목록에서 제거. 우째냐, 너 년...
 
 "음.. 마가렛이란 이름이 좋아 보이네요," 조심스럽게 말했다.
-
-
 
 "그래, 아마 그녀가 자라서 영국을 이끌 수도 있겠지. 이미 내가 인간들을 경멸하는 유전자적 편겸을 극복해야 하니까. 그녀가 냉담하고 감정에 소극적해지는 게 더 나은 상황이 필요 없어."
 
 "젠장. 매기라는 별명이 멋있을 것 같았는데."
 
-"그럼, 심슨 가족에 나온 캐릭터 역할을 하면 될지도." *슥삭슥삭 소리 연출*
+"그럼, 심슨 가족에 나온 캐릭터 역할을 하면 될지도." _슥삭슥삭 소리 연출_
 
 ![이미지](https://miro.medium.com/v2/resize:fit:960/0*7gwjIMoeHnSbZkcx.gif)
-
-
 
 와, 생각보다 어려울 것 같네요. 우리는 서로에게 소리 지르는 것이 덜 들리는 집으로 되돌아가기로 결정했어요. 공원에 있는 다람쥐조차 그녀의 임신 복부와 내 "견과류"에서 멀리 떨어져 있었어요.
 
 집에서도 잘 안됐어요. 펜과 형광펜을 손에 든 채, 우리는 책에 싫어하는 이름들을 그으며 잠재력 있는 이름들을 강조하기로 결정했어요. 이것이 매우 격렬해졌지만 계속 밤 늦은 시간까지 계속하면서 유쾌했어요.
 
-"진짜, 이 책에 LOLITA가 어떻게 들어가 있지? 농담하는 거니?" 그녀는 "처음 듣는 것 같은" 감정으로 역겹다는듯이 말했어요. 
+"진짜, 이 책에 LOLITA가 어떻게 들어가 있지? 농담하는 거니?" 그녀는 "처음 듣는 것 같은" 감정으로 역겹다는듯이 말했어요.
 
 "대체로 사람들의 어리석음을 과소평가하지 마세요. 나는 한 소녀 이름 쉐보레로 자랐어요. 그들은 그를 '쉐비'라고 불렀죠. 그리고 엉망이었던 것은 그녀 아빠가 비윅을 운전했다는 거죠. 그들은 프랑스어처럼 들리는 이름을 좋아했던 것 같아요." 나는 대답했습니다.
-
-
 
 디트로이트 조립 라인 위에서 그리스도 같은 느낌이야. 이게 더 쉬워지지 않았어.
 
@@ -91,8 +74,6 @@ link: "https://medium.com/bouncin-and-behavin-blogs/you-never-know-how-many-peop
 
 “애슐리?”
 
-
-
 "그래, 교실에서 뛰어다니는 열두 마리 다른 작은 바보들처럼. 좀 더 노력해봐. 우리가 얘기하는 것은 우리 아이인데."
 
 "매디슨?" 나는 피곤하게 제안했다.
@@ -101,27 +82,21 @@ link: "https://medium.com/bouncin-and-behavin-blogs/you-never-know-how-many-peop
 
 ![이미지](/assets/img/2024-05-14-YouNeverKnowHowManyPeopleYouHate_3.png)
 
-
-
 "안녕. 나는 노력 중이야. 남자들은 이런 걸 잘하지 못해!"
 
 "이게 네가 노력 중이라면, 그냥 잠들어. 엄마가 할게."
 
 "아니, 아무리. 우리는 그에 대해 합의해야 해. 우리 둘 다 우리 가장 좋아하는 세 개나 네 개를 선택하고 우리가 좋아하고 싫어하는 것을 결정해야 해. 우리에겐 거부권도 있어."
 
-"좋아, 다시 정치로 돌아가자. 마가렛, 그래. *큰 감탄사와 함께 한숨."
-
-
+"좋아, 다시 정치로 돌아가자. 마가렛, 그래. \*큰 감탄사와 함께 한숨."
 
 이 순간, 그녀가 낙담해하는 것 같다는 걸 느꼈습니다. 나는 좋은 남편이자 아버지가 되기로 결심하고 간식을 하나 만들기로 했습니다. 제이슨의 슈퍼 디럽 울트라-메가 아이스크림 선데이 두 개.
 
-그것들을 커피 테이블 위에 놓았을 때 그녀는 이 설탕이 든 5000 칼로리의 간식을 볼 때 눈썹을 찌푸렸습니다. 나는 내 것에 뛰어들었고, 그녀는 소심하게 자기 것을 누르기 시작했습니다. 
+그것들을 커피 테이블 위에 놓았을 때 그녀는 이 설탕이 든 5000 칼로리의 간식을 볼 때 눈썹을 찌푸렸습니다. 나는 내 것에 뛰어들었고, 그녀는 소심하게 자기 것을 누르기 시작했습니다.
 
 "어, 충분히 맛있다고?"
 
 그녀는 눈을 굴리며 말했습니다. "일본 레슬러처럼 나보다 더 날씬해 보인다고요? 우리 아이가 이거 다 먹으면 오늘밤 미국을 위해 청탁을 해서 금메달을 딸 수 있을 거예요."
-
-
 
 ![image](https://miro.medium.com/v2/resize:fit:400/0*8aPjB8FooJcCMBCC.gif)
 
@@ -131,8 +106,6 @@ link: "https://medium.com/bouncin-and-behavin-blogs/you-never-know-how-many-peop
 
 그 끼니는 결국 우리를 도왔어요. 우리에게 에너지와 동기부여를 주어서, 더 많은 옵션들을 제시할 수 있었어요. 우리의 책들을 더욱 더 살펴본 후 더 많은 옵션을 제시할 수 있었죠."
 
-
-
 "리타"
 
 "음료수랑 같아?"
@@ -140,8 +113,6 @@ link: "https://medium.com/bouncin-and-behavin-blogs/you-never-know-how-many-peop
 "카르멘?"
 
 "산디에고 출신이고 실종됐어?"
-
-
 
 "Wendy"
 
@@ -151,8 +122,6 @@ link: "https://medium.com/bouncin-and-behavin-blogs/you-never-know-how-many-peop
 
 "그걸 들었어, 피노키오… 라고, 프로벤시오…"
 
-
-
 네이밍 논쟁이 몇 밤 동안 계속되었어요. 우리는 마침내 우리의 목록을 하나의 최종 후보 목록으로 합쳤어요. 웃기고 계획하지 않았지만, 대부분의 최종 선택들이 어떤 이유에서인지 A로 시작했어요. 하나를 제외하고 말이에요. 우리는 마지막 기회를 얻은 목록을 함께 바라보았어요:
 
 Joie
@@ -161,9 +130,6 @@ Alayna
 
 Abby
 
-
-
-```
 Audrey
 
 Avery
@@ -171,9 +137,6 @@ Avery
 We looked at the Final Five and sat down at the negotiation table. Each of us had a lawyer present, a foreshadowing of the future divorce proceedings that were sure to follow. Fuck, I should have never hired Saul Goodman. She got the house, dog, and whatever money I had left that Saul didn’t take.
 
 ![image](https://miro.medium.com/v2/resize:fit:1000/0*xcnQPavCoFJvZXbM.gif)
-```
-
-
 
 "조이, 그거 내 아빠 이름을 떠올리게 해. 욕이 난다."
 
@@ -183,15 +146,11 @@ We looked at the Final Five and sat down at the negotiation table. Each of us ha
 
 "그럴수 있지. 하지만 '도슨 크리크'의 캐티 홈즈 캐릭터 이름처럼 좋아해. 귀엽잖아."
 
-
-
 "No, she's the cute one. But what's really cute is that you want to name our baby girl after a character from a teenybopper show. NOT. Veto.com." Well, darn. Moving on to Option #2.
 
 "Alayna. Lainey as a nickname. Like Winona Ryder's character in Reality Bites."
 
-*A big sigh-eye roll from the pregnant woman who's running out of patience.*
-
-
+_A big sigh-eye roll from the pregnant woman who's running out of patience._
 
 "그냥 드라마 많이 보는구나. 사무실에서 12시간을 보내면서 실제로 사람들을 도와주는 줄 알았는데."
 
@@ -201,8 +160,6 @@ We looked at the Final Five and sat down at the negotiation table. Each of us ha
 
 "Abby는 귀엽네요. 그리고 Nielsen 평점 상위 10위에 없어서 참 좋네요," 그녀가 말했다.
 
-
-
 "그래요. 그리고 유치원 반에 Abbys가 여섯 명이나 된다면, 그들은 'Scabby Abby'라고 불러서 구분할 수 있을 거예요. 죄송해요, 어릴 때 Garbage Pail Kids가 많이 좋아라해서 이런 일이 일어나는 걸 막겠다구요. 그냥 제게 'Don VETO'라고 부르세요. 대부가 말했으니까."
 
 ![image](/assets/img/2024-05-14-YouNeverKnowHowManyPeopleYouHate_4.png)
@@ -210,8 +167,6 @@ We looked at the Final Five and sat down at the negotiation table. Each of us ha
 또 한 번 깊은 한숨을 내쉬게 되었어요. 젠장, 임신한 여자들은 때때로 유머 감각을 상실하는구나. 전에는 그녀가 제 농담을 좋아했던 걸 기억하는데. 하지만 그녀는 나의 아이를 가졌으니까 넘어가야겠지요. 회의는 계속됩니다.
 
 "알았어요, 다른 주요 선택 중 하나인 Audrey도 많이 좋아해요," 그녀가 허탈한 목소리로 말했습니다.
-
-
 
 저는 우리 거실 벽에 걸린 '티파니로 아침을'의 영화 포스터를 올려다봤고, 찬사를 받을 만한 내 심오한 한숨을 치는 것 같았어요. 내가 1973년 브란도처럼 최우수 배우상을 받을 수도 있을 거라고요.
 
@@ -221,9 +176,6 @@ We looked at the Final Five and sat down at the negotiation table. Each of us ha
 
 "잠깐만… 우리에게 아직 하나 더 있어요: 에이버리." 천천히 말했어요.
 
-
-
-```
 ![An image](/assets/img/2024-05-14-YouNeverKnowHowManyPeopleYouHate_5.png)
 
 She looked up and seemed thoughtful.
@@ -231,9 +183,6 @@ She looked up and seemed thoughtful.
 “Avery…” she said. “Avery. I kind of like that on a resume, she wouldn’t automatically be judged as a woman. Her globe-trotting, businesswoman auntie would surely love that idea.”
 
 I hadn’t thought of that either. But damned if she wasn’t right. I’m just glad she didn’t connect that I pulled that from Kelly Preston’s character name from the movie Jerry McGuire.
-```
-
-
 
 "그레이스의 두 번째 이름을 정하는 것이 훨씬 쉬웠어요. Avery Grace란 이름을 가진 은행 강도, 세금 체납자, 혹은 윤리적으로 의심스러운 여성을 우리 과거에 알지 못했거든요. AG 우승!
 
@@ -242,7 +191,5 @@ I hadn’t thought of that either. But damned if she wasn’t right. I’m just 
 참 다행이에요. 추가적인 아기 이름 책을 더 사러 다니긴 꺼려야 했어요. 이름 짓는 과정이 이미 충분히 까다로웠거든요. 다행히도, 집 주변을 돌아다니며 "에이버리 에이비비비비비"라고 소리질러다녔던 버릇을 고칠 수 있었어요. 나는 그 습관을 고쳤던 순간, 바로 이혼 소송 통지서를 받았던 날이었죠. &:^)
 
 © 2024 제이슨 프로벤시오. 모든 권리 보유."
-
-
 
 ![Image](/assets/img/2024-05-14-YouNeverKnowHowManyPeopleYouHate_6.png)

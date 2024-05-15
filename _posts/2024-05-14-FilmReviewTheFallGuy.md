@@ -3,13 +3,12 @@ title: "영화 평론 - 추락하는 사나이"
 description: ""
 coverImage: "/assets/img/2024-05-14-FilmReviewTheFallGuy_0.png"
 date: 2024-05-14 21:14
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-14-FilmReviewTheFallGuy_0.png
 tag: Tech
 originalTitle: "Film Review — The Fall Guy"
 link: "https://medium.com/simon-dillon-cinema/film-review-the-fall-guy-4128c954aea4"
 ---
-
 
 ![Fall Guy Film](/assets/img/2024-05-14-FilmReviewTheFallGuy_0.png)
 
@@ -19,8 +18,6 @@ link: "https://medium.com/simon-dillon-cinema/film-review-the-fall-guy-4128c954a
 
 지금까지는 매우 재미있는 로맨틱 코미디입니다. 그러나 조디의 영화 주연 톰 라이더(Aaron Taylor-Johnson)가 실종됐다는데요. 어둡고 위험한 인물들과 얽힌 것으로 보이며, 프로듀서 게일 메이어(Hannah Waddingham)는 콜트에게 조사를 부탁합니다. 콜트는 그것에 동의하며 조디의 호의를 얻을 것을 희망하고, 아마도 그녀에게 관계를 두 번째 기회를 줄 것을 설득할 것을 희망합니다. 많은 액션과 웃음이 일어납니다.
 
-
-
 본문은 줄거리 때문보다는 기억에 남지 않는다는 점이 더욱 매력적입니다. 뒤틀린 스릴러 서사는 믿기 어려울 정도로 역동적이며 잘못 다룰 경우 완전히 망가질 수 있었지만, 고슬링과 블런트가 멋진 연기를 펼쳐내어 재미있게 만듭니다. 감독 데이비드 레치는 액션을 화려하게 연출하며, 이전 영화인 2022년작 'Bullet Train'에는 큰 관심이 없었지만, 이 작품으로 완전히 마음을 사로잡히게 되었습니다. 게다가 드류 피어스의 대본에는 웃음 포인트가 많아 단조롭지 않게 연출되어 있어서 자주 웃으면서 시간을 보낼 수 있었습니다. 스포일러에 들어가지 않겠지만, 한마디로, 유니콘에 관한 한 장난이 너무 웃겨서 소리를 질러서 참았던 기억이 있습니다. 또한 필 콜린스의 "Against All Odds"를 듣게 되면 다시는 웃기지 않을 수 없게 될 것입니다만, 다시 말하지만, 왜 그런지는 말하지 않겠습니다.
 
 실제 영화와 관련된 다소 낮선 장면들은 영화 전문가만이 발견할 수 있는게 아니라면 다 이해할 수 있습니다. 하지만 팝컬처에 완전히 무지하더라도 스스로에서 충분히 매료될 수 있습니다. 이 영화는 유머, 스릴, 조금의 로맨스를 동시에 담고 있으며, 모든 것에 CGI를 입히는 할리우드의 경향을 조롱하면서 실제 스턴트와 스턴트 퍼포머의 헌신을 기리고 있습니다. 엔딩 크레딧에 등장하는 비하인드 신들이 보이는 드문 케이스로, 'The Fall Guy'의 스턴트 퍼포머들이 특별 헌정을 받았으며, 당연히 그랬죠. 여기서 아카데미가 오스카에서 인정을 받지 못한 점을 바로잡는다면서 이겠습니다.
@@ -29,12 +26,8 @@ link: "https://medium.com/simon-dillon-cinema/film-review-the-fall-guy-4128c954a
 
 # 더 딜런 제국을 넘어서다.
 
-
-
-```markdown
 ![Screenshot 1](/assets/img/2024-05-14-FilmReviewTheFallGuy_1.png)
 
 ![Screenshot 2](/assets/img/2024-05-14-FilmReviewTheFallGuy_2.png)
 
 ![Screenshot 3](/assets/img/2024-05-14-FilmReviewTheFallGuy_3.png)
-```

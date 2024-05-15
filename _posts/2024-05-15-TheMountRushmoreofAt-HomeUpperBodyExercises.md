@@ -3,13 +3,12 @@ title: "집에서 하는 상체 운동의 마운트 러시모어"
 description: ""
 coverImage: "/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_0.png"
 date: 2024-05-15 13:48
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_0.png
 tag: Tech
 originalTitle: "The Mount Rushmore of At-Home Upper Body Exercises"
 link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-exercises-c5770510580d"
 ---
-
 
 <img src="/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_0.png" />
 
@@ -19,8 +18,6 @@ link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-e
 
 운동을 시작해봅시다!
 
-
-
 # 놓치기 싫은 집에서 상체 근육강화 운동
 
 언제나 건강 관리 담당자와 상담하여 귀하가 트레이닝 중에 위험에 노출될 수 있는 어떤 합병증이나 부상력을 인식하고 있는지 확인하십시오. 이 동작은 대부분의 인구에게 안전하고 이용하기 쉬우나, 귀하의 피트니스 상태나 건강 이력에 따라 운동을 수정해야 할 필요가 있을 수 있습니다. 정말, 꼭 열심히 조사해 주십시오!
@@ -28,8 +25,6 @@ link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-e
 둘째로, 이것은 헬스 클럽 객실과 운동 과학자로서의 제 경험을 기반으로 한 개인 목록임을 이해해 주십시오. 이것은 매우 적은 장비로 할 수 있는 동작을 기반으로 합니다. 제가 모든 사람에게 정말로 최고의 운동이라 주장하는 것은 아니지만, 올바른 자세로 꾸준히 수행한다면 러닝과 전반적인 건강에 도움이 될 수 있다고 확신합니다. 항상 시작하기 전에 간단한 워밍업을 잊지 마십시오!
 
 ## 웜업 1) 어깨 플렉션 미동
-
-
 
 ![이미지](/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_1.png)
 
@@ -39,17 +34,13 @@ link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-e
 
 ## 웜업 2) 어시스티드 어깨 후광선
 
-
-
-![이동할 삽화](/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_2.png)  
+![이동할 삽화](/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_2.png)
 
 응용: 한 쪽에 5-8회 (단지 뒤로 이동)
 
 팁: 벽에서 약 2피트 정도 떨어져 서 있습니다. 벽에 손을 올려놓고 움직여 범위가 허용하는 한 최대한 높이 올립니다. 이것이 너무 쉽다면 벽에 더 가까이 다가갑니다. 움직임 범위가 매우 제한된 경우 벽에서 한 발자국 떨어진 곳으로 이동을 고려해보세요. 이상적인 상태로 손을 완전히 옆으로 뻗었다가 올리는 것을 목표로 삼으세요(두 번째 사진). 증가된 난이도로 어깨를 똑바로 펴고 완전한 백스트로크로 전환할 수도 있지만, 준비된 느낌이 들 때만 시도해보세요.
 
 중요 사항: 반대 어깨를 중립상태로 유지하여 움직이는 어깨의 움직임 범위를 속이지 않도록 주의하세요!
-
-
 
 ## 1) 저항 운동으로 하는 어깨 압박
 
@@ -59,8 +50,6 @@ link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-e
 
 ### 지시사항: 이 운동을 하려면 저항 밴드, 수건 또는 셔츠가 필요합니다. 팔꿈치를 90도로 유지하면서 밴드가 어깨를 활용할 수 있을 정도로 충분히 타이트하게 조여야 합니다. 팔꿈치를 어깨 높이까지 올려 관절의 안정성 요구를 증가시키면서 적절한 근육 사용의 중요성을 높일 수 있습니다. 가장 높은 위치에서 1–2초 동안 유지한 후 다음 반복을 시작하기 전에 시작 위치로 돌아갑니다.
 
-
-
 가장 큰 노력을 다해 어깨를 목에서 멀리 내리고, 상체에 과도한 압력이 걸리지 않도록 조심해 주세요. 또한, 양쪽에서의 노력을 균형 있게 유지하도록 노력해 주세요. 한쪽 팔이 다른 쪽보다 상당히 더 멀리 움직이지 않도록 주의하세요.
 
 ## 2) IYW 레이즈
@@ -68,8 +57,6 @@ link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-e
 ![이미지](/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_4.png)
 
 실시 방법: 각 포지션마다 2 세트 x 5~8 회
-
-
 
 힌트: 머리를 받칠 수 있도록 바닥에 베고 베게나 수건을 두세요 (목은 중립을 유지해야 합니다). 제자리에 착석하면 팔을 I자 모양으로 올리고 1~2초 유지하세요. 그 후에는 Y자와 W자 모양으로도 같은 동작을 해주세요. 다양한 자세 변화를 통해 중하부 승모근을 운동하면서 견갑골을 조절하는 능력을 향상시킬 수 있어요. 각 반복에서 목이 완전히 편안한 상태를 유지하도록 주의해주세요! 깊게 호흡하세요.
 
@@ -79,8 +66,6 @@ link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-e
 
 ![이미지](/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_5.png)
 
-
-
 ## 운동: 2 세트 x 8-10 회 (또는 실패 직전까지)
 
 지시사항: 이 운동은 푸시업보다는 플라이에 더 가깝지만, 현저한 접근성 때문에 이곳에 추가했습니다. 긴 양말, 슬라이더 또는 작은 수건 한 쌍을 준비하고 경직이 약간 있는 단단한 표면을 찾으세요. 자신을 손바닥이 서로 향하도록 폭넓은 푸시업 자세로 배치해야 합니다. 다음으로, 체중만을 이용하여 가슴에 영향을 미치는 자작 플라이 시나리오를 만들기 위해 팔을 천천히 분리시킵니다. 최대한 멀리 뻗었다가 바닥으로 내려가서 다시 꼭대기에서 수동으로 초기화해야 합니다.
@@ -89,9 +74,6 @@ link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-e
 
 ## 4) 측면 플랭크 힙 드라이브
 
-
-
-```markdown
 ![마운트러쉬모어 온라인 상체 운동](/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_6.png)
 
 팁: 상체 루틴에 코어 훈련이 빠지면 안 돼요! 이 특정 동작은 손목부터 어깨, 옆구리 및 깊은 코어 근육까지 모든 부위를 강화하는 환상적인 방법입니다. 이 측면 플랭크에서, 기존 자세에서 시작하여 상체를 들어올리며 마운틴 클라이머를 하는 것처럼 상반신을 들어올립니다. 팔꿈치에 의존하거나 손을 받쳐 확장된 팔 상태로 있을 수 있습니다 (사진 참조). 다리를 들어올릴 때 몸이 너무 많이 회전하지 않도록 노력하세요. 움직일 때 더 느리게 하는 것이 더 좋습니다.
@@ -99,9 +81,6 @@ link: "https://medium.com/@davidliira/the-mount-rushmore-of-at-home-upper-body-e
 이처럼 더 많은 운동 및 팁을 원하신다면, 아래 나의 책을 확인해보세요! ⤵️
 
 ![마운트러쉬모어 온라인 상체 운동](/assets/img/2024-05-15-TheMountRushmoreofAt-HomeUpperBodyExercises_7.png)
-```  
-
-
 
 ## 마무리맺으며,
 

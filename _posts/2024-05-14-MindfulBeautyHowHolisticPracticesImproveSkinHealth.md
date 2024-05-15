@@ -3,15 +3,13 @@ title: "마음을 담아 아름다움 전체적인 접근법이 피부 건강에
 description: ""
 coverImage: "/assets/img/2024-05-14-MindfulBeautyHowHolisticPracticesImproveSkinHealth_0.png"
 date: 2024-05-14 23:00
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-14-MindfulBeautyHowHolisticPracticesImproveSkinHealth_0.png
 tag: Tech
 originalTitle: "Mindful Beauty. How Holistic Practices Improve Skin Health"
 link: "https://medium.com/@sarah_77442/mindful-beauty-how-holistic-practices-improve-skin-health-56a70beb1f36"
 ---
 
-
-```markdown
 ![이미지](/assets/img/2024-05-14-MindfulBeautyHowHolisticPracticesImproveSkinHealth_0.png)
 
 미래적인 이상적인 미모를 추구하는 세상에서는 미몬 뷰티(mindful beauty)가 비교적 빠르고 순간적인 해결책과 유행을 따르는 것처럼 보일 수 있습니다. 미몬 뷰티는 자신을 돌보고 의식적이며 전체적인 접근을 통해 피부를 유지하는 것이 진정한 빛을 발하는 원리임을 내포하고 있습니다. 외부 스킨케어뿐만 아니라 내부 웰빙까지 포함하는 이 홀리스틱(Holistic) 방법이 어떻게 피부 건강을 크게 향상시킬 수 있는지 살펴봅시다.
@@ -19,9 +17,6 @@ link: "https://medium.com/@sarah_77442/mindful-beauty-how-holistic-practices-imp
 # 민돌 뷰티(mindful beauty) 이해하기
 
 미몬 뷰티는 단순한 스킨케어 루틴을 뛰어넘는 라이프스타일 이념으로, 의식적인 선택, 홀리스틱한 웰빙과 자가인지를 강조합니다. 민돌 뷰티의 본질은 주변 환경과 우리 자신과 더 깊은 연결을 개발하도록 동기부여하며, 피부의 활력과 건강을 통해 나타나는 조화와 균형의 감각을 양육합니다.
-```
-
-
 
 # 피부 건강을 위한 종합적인 방법
 
@@ -31,8 +26,6 @@ link: "https://medium.com/@sarah_77442/mindful-beauty-how-holistic-practices-imp
 
 ## 수분
 
-
-
 건강한 피부는 수분을 충분히 공급받은 피부입니다. 내부부터 수분을 공급받기 위해 하루 내내 충분한 물을 마시는 것을 최우선 과제로 삼아보세요. 또한 하루 한 정제로 수분을 밀봉하여 촉촉하고 유연한 피부를 유지할 수 있도록 수분공급 스킨케어 제품인 페이셜 미스트, 세럼, 모이스처라이저를 사용해보세요.
 
 ## 스트레스 관리
@@ -41,8 +34,6 @@ link: "https://medium.com/@sarah_77442/mindful-beauty-how-holistic-practices-imp
 
 ## 수면
 
-
-
 피부 수리와 재생에 품질 좋은 수면은 중요합니다. 대부분의 밤에 방해받지 않고 7-9시간을 지향하여 피부 세포가 보충하고 회복할 수 있도록 해주세요. 몸에 졸려하게 신호를 주는 안도한 취침 의식을 만들어 보세요. 조명을 약하게 하거나 약간의 스트레칭을 하거나 침대에서 책을 읽는 등으로 몸의 속도를 늦춰주는 것이 가능합니다.
 
 ## 스킨케어 의식
@@ -50,8 +41,6 @@ link: "https://medium.com/@sarah_77442/mindful-beauty-how-holistic-practices-imp
 당신의 피부의 유니크한 선호도와 필요를 존중하는 스킨케어 관행을 채택해보세요. 유해 물질 없이 피부 건강을 촉진하는 좋은 품질과 천연 제품을 선택해보세요. 부드러운 클렌징, 각질 제거, 보습을 실천하여 조화로운 피부와 피부의 자연적인 빛을 살리세요.
 
 ## 마음과 피부의 연결
-
-
 
 피부와 마음의 관련은 우리의 감정적, 정신적 웰빙과 피부 건강 사이의 깊은 연결을 강조합니다. 연구에 따르면 불안, 스트레스, 부정적 감정은 염증 반응을 유발하여 습진, 여드름, 건선, 로제아와 같은 피부 문제를 악화시킬 수 있습니다. 그 반대로 긍정적인 마음가짐을 갖추고 자기 사랑을 행하며 감정적인 인내력을 유지하는 것은 피부 치유를 촉진하고 전반적인 외모를 높일 수 있습니다.
 

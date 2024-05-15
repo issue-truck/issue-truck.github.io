@@ -3,21 +3,18 @@ title: "이중으로 보다 당신의 프레임에서 대조와 유사성 풀어
 description: ""
 coverImage: "/assets/img/2024-05-14-SeeingDoubleUnpackingContrastsandSimilaritiesinYourFrames_0.png"
 date: 2024-05-14 22:51
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-14-SeeingDoubleUnpackingContrastsandSimilaritiesinYourFrames_0.png
 tag: Tech
 originalTitle: "Seeing Double: Unpacking Contrasts and Similarities in Your Frames"
 link: "https://medium.com/live-view/seeing-double-unpacking-contrasts-and-similarities-in-your-frames-d59b13a1734c"
 ---
 
-
 도시로 나가서 특정한 목적이 없이 방황하며 눈에 띄는 것을 찍습니다. 운동도 할 겸! 새로운 장소를 발견하고 새로운 사람들을 만나게 됩니다. 창의적인 면도 펼칠 수 있습니다.
 
 모두 소리좋아 보이네요. 그런데 스트리트 포토그래피는 정말로 다재다능합니다.
 
 가끔은 정신이 산만해지기도 하죠.
-
-
 
 특정 유형의 스트릿 사진에 헌신하는 것이 집중하는 데 도움이 될 수 있어요.
 
@@ -27,8 +24,6 @@ link: "https://medium.com/live-view/seeing-double-unpacking-contrasts-and-simila
 
 특정 테마를 찾아보세요. 항상 이렇게 할 필요는 없지만, 도움이 되거나 새로운 목적을 부여해 줄 수도 있어요. 우리 모두 때때로 그런 자극이 필요하니까요.
 
-
-
 거리 사진술에서는 대조와 유사성을 찾는 것이 사진작가의 차단을 극복하는 일반적인 기술입니다.
 
 한 프레임 안에 뚜렷한 대조와 기이한 유사성이 돋보이며, 시청자로 하여금 생각에 잠기도록 만듭니다.
@@ -36,8 +31,6 @@ link: "https://medium.com/live-view/seeing-double-unpacking-contrasts-and-simila
 그러나 이를 내용있게 만들어야 합니다.
 
 유머. 풍자. 냉소적인 요소.
-
-
 
 마침내, 그겣은 당신이 세계를 어떻게 보는지를 반영합니다. 당신은 주장합니다.
 
@@ -47,8 +40,6 @@ link: "https://medium.com/live-view/seeing-double-unpacking-contrasts-and-simila
 
 가끔은 현대 생활의 모순을 드러내고 싶을 때도 있습니다.
 
-
-
 ![이미지](/assets/img/2024-05-14-SeeingDoubleUnpackingContrastsandSimilaritiesinYourFrames_1.png)
 
 결국, 보는 이가 스크롤을 멈추고 왔다갔다 하면서 머리를 긁고 웃거나 울게 만들고 싶은 거죠.
@@ -56,8 +47,6 @@ link: "https://medium.com/live-view/seeing-double-unpacking-contrasts-and-simila
 무관심 경계를 넘으면, 그저 좋은 사진 이상을 만들어 갈 수 있습니다.
 
 # 기이한 유사점
-
-
 
 ## 대조
 
@@ -67,15 +56,11 @@ link: "https://medium.com/live-view/seeing-double-unpacking-contrasts-and-simila
 
 '이게 무슨 일이야?!' 라는 순간을 달성하려면 좋아야 합니다.
 
-
-
 재미있는 사진은 단순히 일어나는 것이 아닙니다. 그것들은 연습을 통해 생기며 종종 같은 장면을 여러 번 다시 찍어보는 결과물입니다.
 
 아래의 사진은 2012년에 거리 여행을 시작했을 때 찍은 것입니다. 제 방법을 찾고 있었고, 많은 것들을 보고 실험하고 (그리고 복사하기도 했죠).
 
 강렬하고 매력적인 구도로 걷는 동작과 재미있는 주제를 탐구한 작품입니다. 하지만 아마 여러분들도 비슷한 사진들을 많이 본 적이 있을 거에요.
-
-
 
 StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한지 확인해보세요. StreetRepeat는 스트릿 포토 그래피의 중복이 가장 멋진 온라인 컬렉션입니다! 덧붙여 영감을 얻을 수도 있습니다.
 
@@ -85,8 +70,6 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 
 ## 가상 거울
 
-
-
 박물관을 방문하면 멋진 거리 사진을 찍을 기회가 생깁니다.
 
 사람들은 느긋하게 움직입니다. 그들은 예술품을 감상하고 상호 작용합니다. 대부분 사람들에게 눈치채지 않고 주변을 움직일 수 있습니다. 조심스럽게 프레임을 맞출 시간도 있습니다. 그리고 흥미로운 장면을 포착할 수 있습니다.
@@ -94,8 +77,6 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 그 위에... 당신은 행운을 가질 수도 있습니다.
 
 박물관 방문객들이 등장하는 장면을 찾는 것이 재미있습니다. 하지만, 모든 행사에서처럼, 거리 사진작가는 주변에서 일어나는 일도 봐야 합니다. 이 주제에 대해 더 많은 내용이 있는 이야기입니다.
-
-
 
 미술관 직원인 홀 경비원들은 지루함에 대항하는 데 어려움을 겪을 수 있어요.
 
@@ -105,8 +86,6 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 
 ![사진](/assets/img/2024-05-14-SeeingDoubleUnpackingContrastsandSimilaritiesinYourFrames_4.png)
 
-
-
 위의 사진은 당신이 완전히 열정적으로 할 때 만들 수 있는 것을 잘 보여줍니다.
 
 여러분의 영감을 줄 수 있는 두 장의 다른 사진을 소개해 드리겠습니다.
@@ -114,8 +93,6 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 사진들 중에는 우연히 좋게 찍힌 것도 있을 수 있어요. 하지만 준비를 잘 하면 성공 확률을 높일 수 있어요.
 
 거의 모두가 그렇듯이 대중교통을 이용할 때 저도 핸드폰을 손에 쥐고 있어요. 하지만 제 핸드폰은 놀라운 뉴스나 인스타그램 피드를 보기 위한 것이 아니에요. 제 작업을 위한 도구로 사용하죠.
-
-
 
 나의 세번째 눈. 눈 앞에서 보는 것을 다양한 관점으로 표현하고 있어요.
 
@@ -125,19 +102,14 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 
 리스본 시내 역에 내려서 갑자기 지하철이 붐비기 시작했어요.
 
+저는 두 사람이 서로 다른 세계에 몰두하면서 완전한 집중을 유지하는 것을 알아챘어요.
 
-
-저는 두 사람이 서로 다른 세계에 몰두하면서 완전한 집중을 유지하는 것을 알아챘어요. 
-
-책과 핸드폰 사이, 그리고 여성의 어색한 자세를 관찰했어요. 
+책과 핸드폰 사이, 그리고 여성의 어색한 자세를 관찰했어요.
 
 사진에서 강렬한 leading lines도 주목했는데요. 그 선들은 책부터 남자의 눈, 그리고 복도 반대편의 여성에 이르기까지 뻗어 있어요. 여성은 남자의 책과 평행을 이루려는 듯한 비틀린 방향으로 화면을 쳐다보고 있어요.
 
 그들의 길은 갈라져 있지만, 여전히 서로와 조화를 이루며 각자 자신만의 세계에 몰두하는 모습이었어요.
 
-
-
-```markdown
 ![Contrasts](/assets/img/2024-05-14-SeeingDoubleUnpackingContrastsandSimilaritiesinYourFrames_5.png)
 
 # 대조
@@ -145,9 +117,6 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 거리 사진에서 두드러진 대조는 이야기를 전하며 강력한 도구가 될 수 있습니다. 상반된 요소를 병기함으로써 주목을 끌 수 있습니다. 이는 그냥 장면을 기록하는 것을 넘어섭니다.
 
 저는 아래 사진을 리스본 시내에서 찍었습니다. 남자의 표정, 간극, 여자들의 소소한 대화 사이의 대조는 여러분이 상상할 수 있는 이야기를 전합니다. 아마도, 그는 최근 누군가를 잃어버렸을 것입니다. 그의 외로움은 장면에서 전해지는 대조에 의해 확대되었습니다.
-```
-
-
 
 ![Example Image](/assets/img/2024-05-14-SeeingDoubleUnpackingContrastsandSimilaritiesinYourFrames_6.png)
 
@@ -157,8 +126,6 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 
 이 사진의 전경에 있는 여성은 그 10%에 해당합니다. 자신의 시간을 꿈꾸는 데 사용하고 있어요. 무슨 것을 생각하고 있는지 궁금해할 거예요. 그녀는 걱정스러 보이네요.
 
-
-
 이건 리스본 지하철에서 찍은 오래된 사진이에요. 당시에는 Fuji X10을 사용했어요. 70mm(35mm 환산)의 초점 길이를 사용하여 전경과 배경을 압축했죠. 이렇게 하면 꽉 찬 지하철을 타고 있는 느낌처럼 비공간 감이 느껴져요.
 
 ![image](/assets/img/2024-05-14-SeeingDoubleUnpackingContrastsandSimilaritiesinYourFrames_7.png)
@@ -167,8 +134,6 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 
 카메라를 가지고 거리를 걷다가 자동 조종 모드에 빠지는 것은 쉽죠.
 
-
-
 가끔은 탐정 트렌치 코트와 페도라 모자를 쓰고 있어야 할 때가 있어요.
 
 카메라나 휴대폰을 확대경으로 활용하고, 모든 미묘한 짝짓기와 대조를 찾기 위해 지각을 높여보세요.
@@ -176,8 +141,6 @@ StreetRepeat에서 당신의 레이 식 스트릿 사진이 얼마나 독특한�
 거리 사진을 찍는 데 필요한 이유와 방법을 계속 탐구해 나갈 거예요.
 
 여러분의 반응을 기대할게요.
-
-
 
 그리고 궁금하면, 내가 준비 중인 이야기를 구독하고 내 포트폴리오도 방문해보세요 🙂.
 

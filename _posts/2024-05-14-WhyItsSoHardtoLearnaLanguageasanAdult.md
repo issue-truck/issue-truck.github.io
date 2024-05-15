@@ -3,15 +3,13 @@ title: "왜 어른이 되면 언어를 배우기가 그렇게 어려운 이유"
 description: ""
 coverImage: "/assets/img/2024-05-14-WhyItsSoHardtoLearnaLanguageasanAdult_0.png"
 date: 2024-05-14 23:17
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-14-WhyItsSoHardtoLearnaLanguageasanAdult_0.png
 tag: Tech
 originalTitle: "Why It’s So Hard to Learn a Language as an Adult"
 link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-adult-40502bfb3d25"
 ---
 
-
-```markdown
 ![Language Learning Challenges](/assets/img/2024-05-14-WhyItsSoHardtoLearnaLanguageasanAdult_0.png)
 
 어른이 되어서 언어를 배우는 것은 정말 어렵습니다. 대부분의 사람들은 25세를 넘어서면 어떤 의미 있는 진전도 이루기 어려워합니다.
@@ -19,9 +17,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 저는 영어 필로지의 석사학위와 타국어 사용자를 위한 영어 교육 자격증(TESOL)을 가지고 있습니다. 작년 동안 어른들에게 영어를 가르쳤는데, 왜 그들이 그렇게 어려워하는지 발견했다고 생각합니다.
 
 이유들은 매우 '표면적'입니다. 이들은 극복할 수 없는 돌발적인 장애도 아니며, 나이와 관련된 것도 아닙니다. 이 기사는 자신이 부여한 제한들을 없애는 데 도움이 될 것입니다.
-```
-
-
 
 # 왜 우리는 고난을 겪을까요? 제2 언어 습득 이론
 
@@ -30,8 +25,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 언어 습득은 무의식적인 과정입니다. 언어를 "습득"할 때, 아기처럼 다른 사람들을 듣고 그들의 의사소통을 모방함으로써 자연스럽게 습득합니다.
 
 반면에, 언어 학습은 의식적이고 의도적인 노력입니다. 언어를 "학습"할 때, 규칙을 공부하고 재생산합니다. 언어 학습은 우리가 모두 학교에서 했던 것입니다: 문법 연습, 새로운 단어 학습, 오류가 수정되는 것 등을 경험했습니다.
-
-
 
 ## 언어습득의 다섯 가지 가설
 
@@ -45,8 +38,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 
 ## 정서 필터 가설
 
-
-
 이 가설은 왜 많은 언어 학습자가 정체 단계에 이르렀는데 더 나아갈 수 없는지 설명합니다.
 
 크래셴에 따르면, 보다 강한 필터를 가진 사람들은 두 번째 언어의 입력에 대해 더 저항적입니다. 예를 들어, 그들은 문장 속의 모든 단어를 알지 못하면 메시지를 이해하기 훨씬 어렵게 느낍니다.
@@ -54,8 +45,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 동시에, 보다 약한 필터를 가진 사람들은 일반적으로 두 번째 언어에 더 수용적입니다. 그들은 이해하지 못해도 메시지를 추측하고 해석하는 데 더 열려 있습니다.
 
 어른 남성과 여성 몇 십 명과 함께 일한 한 해 뒤, 이해한 바가 여기 있습니다:
-
-
 
 # 세 가지 가장 흔한 심리적 장벽
 
@@ -65,8 +54,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 
 왜냐하면 진짜 이유가 없기 때문입니다. 1월 2일에 체육관 멤버십을 사도 사용하지 않는 것과 같습니다. 변화는 불편하지만, 자신이 싫어하는 삶을 살아가는 것도 마찬가지입니다.
 
-
-
 나의 경험상 언어 학습에서 가장 빠른 진전을 보이는 사람들은 주로 제발필요성을 가지고 있습니다. 예를 들어, 직업 변경, 이민, 해외 교육 접근, 특별한 사람과 소통하는 능력 등이 있습니다.
 
 ## 2. 두려움과 불안
@@ -74,8 +61,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 저는 가르치기 시작했을 때, 많은 사람들이 언어 학습에 부정적인 과거 경험을 가지고 있고, 그에 기반한 특정한 기대치를 가지고 있음에 놀라게 되었습니다. 쌍에 해당하는 시간을 보내며 그들의 방어를 풀고, 손상을 복구하는데 많은 시간을 보냈습니다.
 
 사례:
-
-
 
 ## 자신감 부족
 
@@ -85,8 +70,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 
 ## 실패 두려움 / 실수를 두려워함
 
-
-
 오류를 범하지 않고 배우는 것은 불가능해요. 참 그렇죠. 안타깝게도 많은 사람들이 어렸을 때 실수를 범했을 때 벌을 받았어요. 그 결과, 그들은 매번 바로잡힐 때마다 스트레스를 느끼죠.
 
 다른 고민은 피드백을 받아들이는 것입니다. 사람들은 숙제의 교정에 대해 종종 마음이 아픕니다. "너무 바보 같지 않아?" 하거나 "미안해요, 정말 미안해요."
@@ -94,8 +77,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 부정적인 자기 대화와 자학하는 농담은 학습에 아주 안 좋아요 (그리고 일반적인 개인 성장에도).
 
 "나 바보야"라고 말하지 마세요. 이에 대해 얘기할 필요가 있다면 "나 참 똑똑하군"이라고 비꼬아 말하세요 :) 같은 의미지만 뉘앙스가 다르죠.
-
-
 
 ## 학습과 불편감 연관시키기
 
@@ -105,8 +86,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 
 그들이 hardcore 부트캠프 스타일 교육에서 진전을 보지 않을 것이라고 말하고 싶지는 않습니다. 진전을 보게 될 것입니다. 그러나 이 모든 스트레스는 불필요합니다. 학습은 즐거울 수 있고 즐겁게 해야 합니다.
 
-
-
 ## 3. 규율이란 말도 없이 "나를 억지로" 하려는 마음가짐
 
 교사는 학생의 진행 상황 중 일부만 책임을 집니다. 누군가의 머리 속으로 지식을 넣어 줄 수는 없죠. 수업 취소, 숙제 건너뛰기, 집중하지 않기, 불분명한 부분이 있을 때 질문을 하지 않기 등 - 만약 21세를 넘었다면, 이런 변명들은 모두 옳지 않아요.
@@ -114,8 +93,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 어떤 기술이든 언어를 배우는 것도 규율과 일관성이 필요해요. 교사가 대신해주지는 못해요.
 
 # 그러니, 언어를 배우는 데 걸리는 시간은 얼마나 걸릴까요?
-
-
 
 3개월 안에 A2에서 B1로 올라갈 수 있나요? 계산해봐요.
 
@@ -125,8 +102,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 
 그러니까, 2 x 3 = 6이에요.
 
-
-
 수업 3시간 + 숙제 6시간 = 주당 9시간.
 
 한 달은 4주로 이루어져 있어요.
@@ -135,8 +110,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 
 36 x 3 = 108시간 (우리의 시간표는 3개월이니까).
 
-
-
 그건 이상적인 시나리오이고, 당신은 아직 절반밖에 되지 않았어요.
 
 물론, 진전은 여러 가지 요인에 의해 달라질 수 있어요. 이에는 공부하는 방식, 구사하는 언어의 수, 수업 외에서 그 언어에 노출되는 정도, 심지어 나이까지 포함돼요. 하지만 결론은, 빠르게 배우기란 쉽지 않다는 거죠.
@@ -144,8 +117,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 # 정신적 장벽을 극복하고 빠르게 학습하는 방법
 
 과정을 게임처럼 즐겁게 만들어보세요. 언어를 빨리 배우는 사람과 어려움을 겪는 사람 사이의 가장 큰 차이는 태도입니다.
-
-
 
 빠르게 배우는 사람들은 언어와 함께 놀아요. 그들은 자신의 실수를 자신의 정체성에 묶지 않아요. 그들에게 언어는 도구에 불과해요. 그러한 학습자들은 얼마나 똑똑해 보이는지 신경 쓰지 않아요. 15개의 단어를 알고 있더라도 최선을 다 하려고 해요.
 
@@ -158,8 +129,6 @@ link: "https://medium.com/@victoriash/why-its-so-hard-to-learn-a-language-as-an-
 - 시간이 매우 오래 걸릴 거에요, 그러니 즐겁게 만들어 보세요.
 
 선생님과 함께 언어를 배우든 혼자 하든 상관없어요, 교과서를 공부하든 언어 학습 앱을 사용하든 중요한 건 일관성과 규율성이에요.
-
-
 
 Further reading:
 

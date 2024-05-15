@@ -3,15 +3,13 @@ title: "문해 능력을 키우는 언어 앱"
 description: ""
 coverImage: "/assets/img/2024-05-14-Alanguageappfortheliteratelearner_0.png"
 date: 2024-05-14 23:15
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-14-Alanguageappfortheliteratelearner_0.png
 tag: Tech
 originalTitle: "A language app for the literate learner"
 link: "https://medium.com/remainders/a-language-app-for-the-literate-learner-30509a7b0b75"
 ---
 
-
-```markdown
 ![Language App for Literate Learner](/assets/img/2024-05-14-Alanguageappfortheliteratelearner_0.png)
 
 언어에는 매혹을 느낍니다. 대부분이 임의의 소리들이 의미를 지니도록 사용되며, 그 소리들을 조합하여 우리의 의견, 욕망, 명령 및 다른 것들을 표현하는 규칙들의 집합은 우리가 가리키는 대상에 대한 생각을 표현하는 긴 단위로 변환됩니다. 이것은 마법의 한 형태입니다. 우리는 언어로 주변 세계와 그 이해에 영향을 주며, 수천 가지 이상의 구별된 언어들과 그들 내부의 무한한 변종으로 인간의 존재를 통해 이루어왔습니다.
@@ -19,9 +17,6 @@ link: "https://medium.com/remainders/a-language-app-for-the-literate-learner-305
 제게 저속한 발언을 이끌어내는 것은 적어도 미국에서 내 인생 동안 교육계에 전반적으로 퍼진 언어교육 방법입니다. 학생은 어느 정도의 표현을 기억해야 하며, 종종구어체로 — 특히 맥주를 주문하거나 화장실을 찾는 일에 대한 것들을 통해 자연스럽게 진행될만한 여러 문법 규칙들을 흡수해야 합니다. 하지만 그 이유를 전혀 이해하지 못한 채 제시된대로 모두 반복해야 하는 상황은 실로 안타깝습니다.
 
 그리고 '러브 액츄얼리'라는 영화가 사실을 잘 보여준다면, 영국에서도 언어 학습자에게 동일한 것이 사실입니다.
-```
-
-
 
 어쨌든, 이것은 서투른 관광객이 되길 원하는 사람에게는 도움이 될 수 있을지도 모릅니다. 음료를 주문하고 마실 장소를 찾는 것은 그런 사람에게는 빈번한 필요성이 될 것이며, 현지 사람들이 방문객이 원어를 더 잘 사용하도록 돕기 위해 한마디나 전해주지 않을까요? 아니면 이 관광객(내가 말할지언정 미국인이라고 할 수 있겠네요)의 날카로운 발음을 듣기 싫어하는 경우도 있을테니요.
 
@@ -30,8 +25,6 @@ link: "https://medium.com/remainders/a-language-app-for-the-literate-learner-305
 Duolingo는 끝내줘버리고 나를 혼자 두어야 하겠군요, 그것은 단지 관광객을 위한 컴퓨터화된 가르침에 불과합니다. 개인 레슨을 신청해도 되지만, 강사들이 하루 빵을 벌어내기 위해 돈을 많이 받아야 하기 때문에 그 비용이 많이 들죠. 비디오 회의가 제가 어린 시절 스타트렉에서 본 것처럼 발전한다면 참을성이 없어지기 전에 기술 발전에 대한 인내심이 부족하군요. 게다가 사실 어찌됐든 낯선 사람과 대화를 나누고 싶지 않습니다.
 
 그래서 나는 큰 즐거움을 느끼며 나에게 많은 도움을 주는 앱인 Readle을 발견했습니다.
-
-
 
 위 내용을 번역해 드릴게요:
 
