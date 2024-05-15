@@ -128,13 +128,13 @@ Jean은 1931년에 뉴욕으로 돌아갔어요. 그녀는 이미지를 바꾸�
 
 ![Jean Arthur](/assets/img/2024-05-14-JeanArthurTheActressEverybodyShouldKnowEnglishversion_23.png)
 
-뉴욕에서의 연극 활동 기간 동안 Arthur는 대부분의 스크립트를 거절했지만, 몇 가지 예외는 있었습니다. 1933년에는 2년 동안 영화를 찍지 않았으나 RKO사의 <The Past of Mary Holmes>에서 할리우드로 돌아왔습니다. 그리고 다음 해에는 가장 유명한 작품인 콜롬비아 픽처스의 드라마 <Whirpool (1934)>를 제작했는데, 이 작품을 통해 Jean Arthur는 대부분의 아이코닉한 클래식을 만든 스튜디오가 된 곳입니다. 영화의 성공으로 스튜디오는 그녀에게 계약을 제안했습니다. 처음에 주저했지만, 뉴욕에서 행복했기 때문에 다시 할리우드로 돌아간 부모님을 위해 안정성을 위해 수락하기로 결정했습니다. 1936년까지 Jean은 큰 전성기에 도달하기 전에 8편의 영화를 만들었습니다.
+뉴욕에서의 연극 활동 기간 동안 Arthur는 대부분의 스크립트를 거절했지만, 몇 가지 예외는 있었습니다. 1933년에는 2년 동안 영화를 찍지 않았으나 RKO사의 The Past of Mary Holmes에서 할리우드로 돌아왔습니다. 그리고 다음 해에는 가장 유명한 작품인 콜롬비아 픽처스의 드라마 Whirpool (1934)를 제작했는데, 이 작품을 통해 Jean Arthur는 대부분의 아이코닉한 클래식을 만든 스튜디오가 된 곳입니다. 영화의 성공으로 스튜디오는 그녀에게 계약을 제안했습니다. 처음에 주저했지만, 뉴욕에서 행복했기 때문에 다시 할리우드로 돌아간 부모님을 위해 안정성을 위해 수락하기로 결정했습니다. 1936년까지 Jean은 큰 전성기에 도달하기 전에 8편의 영화를 만들었습니다.
 
 <img src="/assets/img/2024-05-14-JeanArthurTheActressEverybodyShouldKnowEnglishversion_24.png" />
 
 <img src="/assets/img/2024-05-14-JeanArthurTheActressEverybodyShouldKnowEnglishversion_25.png" />
 
-<The Most Precious Thing in Life (1934)>는 흥미로운 영화입니다. Madame X와 Stella Dallas의 조합입니다. Jean이 청소년과 노년의 여자를 연기하는 엄마 멜로 드라마입니다. 좋은 연기를 했음에도 불구하고 이 소프한 영화는 성공하지 못했고, Arthur는 자신의 작품을 좋아하지 않았습니다.
+The Most Precious Thing in Life (1934)는 흥미로운 영화입니다. Madame X와 Stella Dallas의 조합입니다. Jean이 청소년과 노년의 여자를 연기하는 엄마 멜로 드라마입니다. 좋은 연기를 했음에도 불구하고 이 소프한 영화는 성공하지 못했고, Arthur는 자신의 작품을 좋아하지 않았습니다.
 
 일부 1930년대 초반 작품들: The Defense Rests; Diamond Jim; Public Hero #1; The Public Menace; Party Wire.
 
