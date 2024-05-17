@@ -11,7 +11,7 @@ link: "https://medium.com/jane-austens-wastebasket/im-here-to-fulfill-your-fanta
 ---
 
 
-```
+
 ![이미지](/assets/img/2024-05-16-ImHeretoFulfillYourFantasiesinthisContemporaryRomanceNovel_0.png)
 
 기다려요!
@@ -19,7 +19,7 @@ link: "https://medium.com/jane-austens-wastebasket/im-here-to-fulfill-your-fanta
 나는 너를 좋아해. 그러니까, 너를 진짜로 좋아해.
 
 네가 무슨 생각을 하는지 알아. 나는 플란넬을 입지만, 나는 깨달음을 얻었어. 나는 #페미니스트야.
-```
+
 
 
 

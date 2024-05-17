@@ -11,7 +11,7 @@ link: "https://medium.com/a-style-of-my-own/a-primer-on-dressing-for-body-type-1
 ---
 
 
-```markdown
+
 ![이미지](/assets/img/2024-05-17-APrimeronDressingforBodyType_0.png)
 
 요즘에 몇 일 전에는 색상에 대해 이야기했어요. 오늘은 옷의 디자인에 대해 좀 더 알아보려고 해요. 
@@ -20,7 +20,7 @@ link: "https://medium.com/a-style-of-my-own/a-primer-on-dressing-for-body-type-1
 물론, 제가 어떤 몸형인지 알고 이해해야 하는 게 필요해요. 제 몸의 형태를 해독하는 게 얼마나 어려운지 놀랍죠. 우리 몸에 대해 완전히 객관적이 되기는 거의 불가능하다고 생각돼요.
 
 자신의 몸에 맞게 옷을 입는다는 건 더 작아 보이려고 하거나 더 얇아 보이려는 게 아니에요. 주로, 가장 강한 라인과 특징을 부각시키는 데 초점을 맞추는 거에요.
-```
+
 
 <div class="content-ad"></div>
 

@@ -31,7 +31,7 @@ link: "https://medium.com/@lauraelin/reviving-90s-makeup-trends-icons-evolution-
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-Reviving90sMakeupTrendsIconsEvolutionandModernTwists_2.png)
 
 '90년대를 대표하는 것이라고 하면 갈색 메이크업을 완벽하게 소화하는 것보다 더 있을까요? 다행히 이 향수로운 트렌드는 그런 후퇴적인 패션을 버리고 더욱 심플한 접근 방식으로 현대적으로 다가왔습니다. 갈색 립스틱(메이크업 아티스트 로빈 블랙이 Fenty Stunna Lipstick in Unveil 사용)을 확실하게 발라주고 갈색 스모키 아이와 함께 완성하세요. 후자의 경우, Smashbox Cover Shot Eyeshadow Palette in Minimalist나 Surratt Artisque Eyeshadow in Truffle와 같은 제품 사용을 고려해 보세요.
@@ -39,7 +39,7 @@ link: "https://medium.com/@lauraelin/reviving-90s-makeup-trends-icons-evolution-
 # 3. 섹시한 블랙 타이트라이너
 
 ![Image](/assets/img/2024-05-16-Reviving90sMakeupTrendsIconsEvolutionandModernTwists_3.png)
-```
+
 
 
 

@@ -11,7 +11,7 @@ link: "https://medium.com/fan-fare/why-are-we-still-paying-attention-to-the-razz
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-15-WhyAreWeStillPayingAttentiontotheRazzieAwards_0.png)
 
 제가 보기에는 다수와는 조금 다른 의견을 가지고 있습니다. 평가는 객관적인 성취에 대해서만 주어져야 한다고 생각해요.
@@ -19,7 +19,7 @@ link: "https://medium.com/fan-fare/why-are-we-still-paying-attention-to-the-razz
 예를 들어, 축구 경기에서 얻은 득점/골에 대한 상을 얻는 것이나 근속 연수와 같은 측정 가능한 이정표에 대한 상을 받는 것 같은 경우에는 전혀 문제가 없어요. 제가 문제를 제기하기 시작하는 건 주관성과 개인적 취향이 개입될 때인데, 이때부터 어떠한 "명예로운 시상식"에 대해서 점점 더 반대하는 입장을 취하게 되요.
 
 예를 들어, 이전에 오스카에 대해 언급한 적이 있었는데(관심 있으시다면 여기에서 읽어보실 수 있어요), 나는 결국 그들을 문제적으로 여기고 최악의 경우에는 해로운 것으로 보아요. 우리가 그 중요성을 인정하거나 아닌 상관하지 않더라도, 영화 제작의 어떤 부문에서든 "최고"를 인정하려는 아이디어는 예술 형식을 "우승자"와 중요한 "패자"를 가진 경쟁으로 바꿔놓게 돼요.
-```
+
 
 
 
@@ -41,7 +41,7 @@ link: "https://medium.com/fan-fare/why-are-we-still-paying-attention-to-the-razz
 
 
 
-```markdown
+
 ![image](/assets/img/2024-05-15-WhyAreWeStillPayingAttentiontotheRazzieAwards_2.png)
 
 만약 이 '수상 작품'이 Scary Movie 시리즈만큼 진지하지 않다고 생각한다면 걱정하지 마세요. 더 좋은 이야기가 있어요.
@@ -49,7 +49,7 @@ link: "https://medium.com/fan-fare/why-are-we-still-paying-attention-to-the-razz
 영화 제작의 거장이자 시간이 흐를수록 더 중요한 감독으로 손꼽히는 Stanley Kubrick은 1980년 The Shining으로 "최악의 감독"에 노미네이션을 받았습니다. 맞아요. 당신이 읽은 대로에요. 그 훌륭한 분께서 '수상'은 못 했지만, 황금 포도주상은 (다소) 이 영화적 테러 행위를 사과하며 Razzies의 심사위원의 수준을 보여줍니다.
 
 제가 영화에 관해서 이야기할 때 늘 낭만적이죠. 영화, 어떤 영화든 아주 작은 기적에 불과하다고 저는 굳게 믿어요. 영화는 엄청난 비용이 들고 복잡한 창작물인데다가 요즘 같음에는 무척이나 위험한 도박이기도 해요. 올바르게 하면 계속해서 그렇게 만들어갈 수 있지만, 믿음직한 작품을 계속 내놓는 엄청난 압박이 느껴집니다. 그렇지 않으면, 당신은 평가받고(가끔은 조롱 받기도) 평생 그 후유증을 가질 수 있어요. 그래서 팬이라 불리우는 사람들이라면 영화 제작자들이 계속 영화를 만들도록 격려해야 한다고 제 생각은 용서해주세요.
-```
+
 
 
 

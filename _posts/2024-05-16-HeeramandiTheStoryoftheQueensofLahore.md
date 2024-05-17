@@ -11,7 +11,7 @@ link: "https://medium.com/long-sweet-valuable/heeramandi-the-story-of-the-queens
 ---
 
 
-```
+
 ![히라만디: 라호르 여왕 이야기](/assets/img/2024-05-16-HeeramandiTheStoryoftheQueensofLahore_0.png)
 
 만약 보리우드의 팬이라면, 넷플릭스에서 이 새로운 시리즈에 대해 들어봤을 것입니다. 아니라면, 지금 이 술술 빠져들 만한 시즌 1의 8부작을 보는 것을 고려할 때입니다. 이 작품은 여러분을 섹시하고 아름답고 음모적이며 지적인 여자들이 사는 꿈의 세계로 이끌어갑니다. 그들은 라호르의 여왕으로 알려져 있었습니다 (인도의 분리 전). 그러므로 설정은 본질적으로 독립 전의 인도에 있습니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/long-sweet-valuable/heeramandi-the-story-of-the-queens
 이 에피소드들은 산제이 리라 반살리 (SLB)이라는 유명한 보리우드 감독이 쓰고 연출했습니다. 그는 과거 Goliyon Ki Raasleela Ram-Leela(2013)와 같은 비극적 로맨스 영화로 자신의 지위를 확고히 했으며, 최고의 흥행 시대극 Bajirao Mastani(2015)와 Padmaavat(2018) 등을 만들었습니다. 그는 Bajirao Mastani를 위한 최고 연출상 및 Padmaavat을 위한 최고 음악 연출상을 수상했습니다. 그는 또한 Gangubai Kathiawadi(2022)라는 전기 영화를 연출하여 추가로 국가와 필름페어상을 수상했습니다. 그의 영예의 목록은 페이지 넘어가듯이 이어집니다.
 
 나는 그의 작품들에 반해서 보리우드 영화인 Bajirao Mastani를 통해 사랑에 빠졌습니다. 그 뒤로 이어진 Gangubai Kathiawadi도 마찬가지로 매혹적이었습니다. 히라만디는 그의 다른 작품과는 별개의 수준으로, 다이아몬드 장터로 명명된 바 있습니다.
-```
+
 
 <div class="content-ad"></div>
 

@@ -37,7 +37,7 @@ link: "https://medium.com/poetry-playground/a-zeno-kind-of-day-7cc2c7dcc943"
 
 
 
-```markdown
+
 ![Image 1](/assets/img/2024-05-16-AZenoKindofDay_1.png)
 
 A fisherman stands upon the shore,
@@ -51,7 +51,7 @@ My ego scoffs, glad I'm not
 destined for this lowly spot.
 
 ![Image 2](/assets/img/2024-05-16-AZenoKindofDay_2.png)
-```
+
 
 
 

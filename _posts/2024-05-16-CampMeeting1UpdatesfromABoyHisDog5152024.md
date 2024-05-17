@@ -11,7 +11,7 @@ link: "https://medium.com/a-boy-and-his-dog-outdoor-americana/camp-meeting-1-upd
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-CampMeeting1UpdatesfromABoyHisDog5152024_0.png)
 
 [This post originally appeared on A Boy and His Dog: Outdoor Americana on Substack]
@@ -19,7 +19,7 @@ link: "https://medium.com/a-boy-and-his-dog-outdoor-americana/camp-meeting-1-upd
 Happy Wednesday, family.
 
 Welcome back to A Boy & His Dog, where we share conservation news, fun critter facts, and outdoorsy stuff written just for our favorite person — you.
-```
+
 
 <div class="content-ad"></div>
 

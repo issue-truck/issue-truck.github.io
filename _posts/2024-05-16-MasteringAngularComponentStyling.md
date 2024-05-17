@@ -11,7 +11,7 @@ link: "https://medium.com/@nandeepbarochiya/mastering-angular-component-styling-
 ---
 
 
-```markdown
+
 <img src="/assets/img/2024-05-16-MasteringAngularComponentStyling_0.png" />
 
 이 블로그 포스트에서는 Angular의 Shadow DOM 모드 및 Emulated 모드, 스타일 스코프, 템플릿에서 스타일 정의, 외부 스타일 파일 참조 및 의사 클래스에 대해 알아볼 것입니다. 각 개념에 대한 예제 코드도 제공할 것입니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/@nandeepbarochiya/mastering-angular-component-styling-
 # 컴포넌트 스타일링
 
 컴포넌트는 컴포넌트의 DOM에 적용되는 CSS 스타일을 포함할 수 있습니다. 이러한 스타일은 @Component 데코레이터의 styles 속성을 사용하여 인라인으로 정의하거나 styleUrl 속성을 사용하여 별도의 파일에서 정의할 수 있습니다.
-```
+
 
 
 

@@ -31,7 +31,7 @@ link: "https://medium.com/artfullyautistic/7-unexpected-signs-that-youre-actuall
 
 
 
-```
+
 ![이미지](/assets/img/2024-05-16-7UnexpectedSignsThatYoureActuallyExperiencingAutisticShutdowns_1.png)
 
 2. 자아동화
@@ -39,7 +39,7 @@ link: "https://medium.com/artfullyautistic/7-unexpected-signs-that-youre-actuall
 자아동화와 현실동화는 특히 외상 경험이 있는 사람들 사이에서 발견되었습니다. 자아동화는 자신이 바깥에 있는 듯이 느껴지고 행동, 감정 또는 생각을 멀리서 지켜보는 것입니다. 현실동화는 세상이 실재하지 않는 것으로 여기는 것입니다. 가끔씩 강렬한 자폐 슈터다운을 경험할 때, 나는 나 자신과 주변 환경, 그리고 내 주변 사람들을 관찰하는 것 같지만, 실제로는 그 자리에 없는 것 같이 느꼈습니다. 지금은, 나 자신이 굉장히 압도당할 때 사용하는 유독한 대처 메커니즘이라는 것을 깨달았습니다. 이것은 일반적으로 몇 일이나 심지어 몇 주에 걸쳐 지속될 수 있는 자폐 슈터다운으로 이어질 수 있습니다.
 
 ![이미지](/assets/img/2024-05-16-7UnexpectedSignsThatYoureActuallyExperiencingAutisticShutdowns_2.png)
-```  
+  
 
 
 
@@ -69,7 +69,7 @@ link: "https://medium.com/artfullyautistic/7-unexpected-signs-that-youre-actuall
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-7UnexpectedSignsThatYoureActuallyExperiencingAutisticShutdowns_5.png)
 
 7. Pain
@@ -77,7 +77,7 @@ link: "https://medium.com/artfullyautistic/7-unexpected-signs-that-youre-actuall
 As an autistic woman with many chronic health conditions, my body cannot handle being overstimulated or exhausted, so I experience pain very often. I first developed chronic migraines around seven years ago, and they started at a time when my masking was at an all-time high. My headaches are often a warning sign that my body and mind are struggling to maintain the facade, indicating that I need to take a step back.
 
 ![Image](/assets/img/2024-05-16-7UnexpectedSignsThatYoureActuallyExperiencingAutisticShutdowns_6.png)
-```
+
 
 
 

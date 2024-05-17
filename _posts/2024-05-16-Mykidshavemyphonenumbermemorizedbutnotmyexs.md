@@ -11,7 +11,7 @@ link: "https://medium.com/@rodr4860/my-kids-have-my-phone-number-memorized-but-n
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-Mykidshavemyphonenumbermemorizedbutnotmyexs_0.png)
 
 I got to get this one off my chest, because today, I learned something that blew my mind.
@@ -19,7 +19,7 @@ I got to get this one off my chest, because today, I learned something that blew
 Today, I learned that my kids have my phone number memorized, but they don't have their mom's memorized.
 
 For any parent who is worth their salt, you'll understand why that fact matters. For those who aren't parents, let me explain why: kids can get lost. Kids can face unexpected emergencies.
-```
+
 
 <div class="content-ad"></div>
 

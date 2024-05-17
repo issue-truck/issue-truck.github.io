@@ -51,7 +51,7 @@ link: "https://medium.com/the-new-climate/how-i-lost-my-phone-and-found-a-climat
 
 <div class="content-ad"></div>
 
-```markdown
+
 <img src="/assets/img/2024-05-17-HowILostMyPhoneandFoundaClimateSolution_2.png" />
 
 그래서, 우리의 배수 시스템이 얼마나 중요한지에도 불구하고, 여전히 우리의 기후 문제에 영향을 미치는 사람들이 있습니다. 만약 평균 나이지리아인이 자신의 행동이 우리의 많은 문제에 영향을 미치고 있다는 사실을 알았다면, 아마도 그의 행동은 달랐을지도 모르겠어요.
@@ -60,7 +60,7 @@ link: "https://medium.com/the-new-climate/how-i-lost-my-phone-and-found-a-climat
 
 - 복리 효과: 막힌 배수 시스템이 있는 지역은 기후 변화가 계속되면 홍수에 더 취약할 수 있습니다.
 - 도시 열섬 효과: 막힌 배수 시스템은 도시 열섬 효과에 기여하여 기후 변화의 영향을 악화시킬 수 있으며, 도시 지역의 온도를 높일 수 있습니다.
-```
+
 
 <div class="content-ad"></div>
 
@@ -74,7 +74,7 @@ link: "https://medium.com/the-new-climate/how-i-lost-my-phone-and-found-a-climat
 
 <div class="content-ad"></div>
 
-```markdown
+
 <img src="/assets/img/2024-05-17-HowILostMyPhoneandFoundaClimateSolution_3.png" />
 
 예를 들어, 녹지 지붕과 녹지 벽이 설치될 수 있습니다. 이는 건물을 냉각하고 주변 환경이 흡수하는 열의 양을 줄이기 위해 식물과 기타 식물을 사용합니다. 이것은 분명히 나의 나라에 대한 큰 혁신이 될 것이지만 장기적으로 항상 불가능한 것은 아닐 것입니다.
@@ -82,7 +82,7 @@ link: "https://medium.com/the-new-climate/how-i-lost-my-phone-and-found-a-climat
 엔지니어로서 저는 우리 인프라에 생물 스웨일을 통합하는 아이디어가 실제로 돌출 배수로 인한 홍수를 줄이고 기후 변화의 효과를 완화하는 데 큰 도움이 될 것으로 생각합니다.
 
 <img src="/assets/img/2024-05-17-HowILostMyPhoneandFoundaClimateSolution_4.png" />
-```
+
 
 <div class="content-ad"></div>
 

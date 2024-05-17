@@ -11,7 +11,7 @@ link: "https://medium.com/@insidefootballmedia/alex-barker-videographer-presente
 ---
 
 
-```markdown
+
 <img src="/assets/img/2024-05-16-AlexBarkerVideographerPresenterforTheAthletic_0.png" />
 
 # Alex, 오늘 우리와 대화해 줘서 고맙습니다. 자기소개와 현재 하는 일에 대해 알려주세요.
@@ -19,7 +19,7 @@ link: "https://medium.com/@insidefootballmedia/alex-barker-videographer-presente
 감사합니다! 저는 The Athletic의 비디오그래퍼(공식)이자 프레젠터(비공식)입니다. 2023년 5월에 합류하여 새로운 수직 비디오 프로젝트의 일원으로, 어린이들을 위한 소식 기반 콘텐츠를 만드는 것을 목표로 하고 있습니다. 그러나 시간이 흘러, 동료들은 다른 분야로도 활동할 수 있게 허용해 주었습니다.
 
 # The Athletic의 비디오그래퍼이자 프레젠터로 활동하면서 일주일이 어떻게 보내지나요?
-```
+
 
 <div class="content-ad"></div>
 
@@ -113,6 +113,5 @@ Twitter에서 EuroExpert_를 팔로우해주세요... 지금은요! 그리고 �
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Alex Barker Videographer Presenter for The Athletic](/assets/img/2024-05-16-AlexBarkerVideographerPresenterforTheAthletic_1.png)
-```

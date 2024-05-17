@@ -95,6 +95,5 @@ I am neutral to this expertise of my daughter’s. She looks nice enough without
 
 아래는 몇 가지 쉐이딩 제품의 이미지인데, 병 안에 무료로 제공되는 작은 퍼프를 참 귀엽다고 생각했어요.
 
-```markdown
+
 ![Puff the Magic Concealer](/assets/img/2024-05-17-PufftheMagicConcealer_1.png)
-```

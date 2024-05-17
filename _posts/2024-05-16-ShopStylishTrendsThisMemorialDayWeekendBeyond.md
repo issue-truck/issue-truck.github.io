@@ -33,7 +33,7 @@ link: "https://medium.com/@thenewyorkexclusive/shop-stylish-trends-this-memorial
 
 
 
-```markdown
+
 ![image](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_0.png)
 
 로스앤젤레스 기반의 브랜드인 AKILA Eyewear와 Bricks & Wood가 최근 두 번째 협업 프로젝트인 Lomita 선글라스의 론칭을 발표했습니다. 초기 협업 제품인 Halldale의 성공을 이어받아, 이번 새로운 컬렉션은 1990년대의 클래식한 사우스 센트럴 LA 느낌에 경의를 표합니다.
@@ -41,7 +41,7 @@ link: "https://medium.com/@thenewyorkexclusive/shop-stylish-trends-this-memorial
 Lomita 프레임은 AKILA와 Bricks & Wood의 세심한 주의와 동의어인 단독한 랩어라운드 디자인을 자랑합니다. 특별한 퀄리티를 보장하기 위해 한정된 수량으로 제작되는 Lomita 컬렉션은 세 가지 다른 컬러웨이로 데뷔할 예정이며, 페즐리 패턴의 케이스와 함께 제공되어 이 도시적인 액세서리에 세련미를 더할 것입니다.
 
 ## Eyebuydirect
-```
+
 
 
 
@@ -103,7 +103,7 @@ Animales는 각 여성이 독특한 특성을 탐색하고 이를 특별한 작�
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_8.png)
 
 Ettika는 여성들을 디자인을 통해 전 세계적으로 자립하도록 노력하는 브랜드로, 이제 사이트에서 브라이덜 컬렉션이 데뷔했습니다!
@@ -111,11 +111,11 @@ Ettika는 여성들을 디자인을 통해 전 세계적으로 자립하도록 �
 이 컬렉션은 예비 신부, 신부님을 위한 파티, 또는 이 즐거운 순간의 손님을 위한 완벽한 쇼핑처입니다. 이 컬렉션에는 아름다운 크리스털, 진주, 그리고 꽃 모티브의 스타일이 특징으로 나와 봄철과 '엄마'가 '예'라고 말할 때 딱 맞습니다.
 
 ## omè
-```
 
 
 
-```markdown
+
+
 ![Freshwater pearl necklace](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_9.png)
 
 이 Freshwater 진주 목걸이는 셸 하트와 스털링 실버 클로저로 만들어졌어요. 이 제품은 천연 재료로 만들어졌기 때문에 각 제품은 독특합니다.
@@ -123,7 +123,7 @@ Ettika는 여성들을 디자인을 통해 전 세계적으로 자립하도록 �
 ## ISA GRUTMAN
 
 ![ISA GRUTMAN](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_10.png)
-```
+
 
 
 
@@ -151,7 +151,7 @@ Ettika는 여성들을 디자인을 통해 전 세계적으로 자립하도록 �
 
 
 
-```markdown
+
 ![Stunning shard hoops](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_14.png)
 
 Crafted from Brazilian Emerald Birita, these stunning shard hoops offer understated sophistication and bold charm.
@@ -159,7 +159,7 @@ Crafted from Brazilian Emerald Birita, these stunning shard hoops offer understa
 ## Fossil — Raquel Watch Ring Two-Hand Stainless Steel
 
 ![Raquel Watch Ring Two-Hand Stainless Steel](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_15.png)
-```
+
 
 
 
@@ -211,7 +211,7 @@ Bluebella는 이번 주에 처음으로 고급 수영복 컬렉션을 출시했�
 
 
 
-```markdown
+
 ![Silk Tie Front Shirt](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_21.png)
 
 The Silk Tie Front Shirt exudes ornate romanticism. Showcasing modern tailoring archetypes, the sleeveless silhouette is defined by the exaggerated front hem that invites various styling options. Choose to tie or wrap the shirt and pair over complementary silk silhouette or tailored trousers.
@@ -219,7 +219,7 @@ The Silk Tie Front Shirt exudes ornate romanticism. Showcasing modern tailoring 
 ## Current Air
 
 ![Current Air](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_22.png)
-```  
+  
 
 
 
@@ -283,7 +283,7 @@ Pixie Midi Dress를 소개합니다. 이제 새로운 스테이플 아이템인 
 
 
 
-```markdown
+
 ![ShopStylishTrendsThisMemorialDayWeekendBeyond_30](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_30.png)
 
 첫 번째 선택! 이 도로타, 미터방수 톱은 그린포인트 본사의 화제입니다. 면과 리넨 혼방으로 제작되어 노력없이도 고정된 구조를 갖추고 있습니다. 온도가 많이 올라가는 계절에 딱인 피크!
@@ -293,7 +293,7 @@ Pixie Midi Dress를 소개합니다. 이제 새로운 스테이플 아이템인 
 ## Velvet by Graham and Spencer
 
 ![ShopStylishTrendsThisMemorialDayWeekendBeyond_31](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_31.png)
-```
+
 
 
 
@@ -327,7 +327,7 @@ Pixie Midi Dress를 소개합니다. 이제 새로운 스테이플 아이템인 
 
 
 
-```markdown
+
 ![Belinda Ank Flat Golda Pearl Lamb](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_35.png)
 
 The Belinda Ank Flat Golda Pearl Lamb exudes elegance with its gold colored leather and charming palm accessory. With a comfortable heel height of 9/16'’, this shoe is perfect for any formal event. Its delicate design adds a touch of sophistication to any outfit.
@@ -335,7 +335,7 @@ The Belinda Ank Flat Golda Pearl Lamb exudes elegance with its gold colored leat
 ## Bruno Magli
 
 ![Bruno Magli](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_36.png)
-```
+
 
 
 
@@ -439,7 +439,7 @@ The Belinda Ank Flat Golda Pearl Lamb exudes elegance with its gold colored leat
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_48.png)
 
 Comfort food for your wardrobe. The BLT Sweatshirt is made of max-comfy, super luxe French loopback terry. Classic crew neck with two sneaky hand pockets.
@@ -447,7 +447,7 @@ Comfort food for your wardrobe. The BLT Sweatshirt is made of max-comfy, super l
 ## Dickies
 
 ![Image](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_49.png)
-```
+
 
 
 
@@ -491,7 +491,7 @@ Comfort food for your wardrobe. The BLT Sweatshirt is made of max-comfy, super l
 
 
 
-```markdown
+
 ![Image of Wilson JD Quilted Jacket](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_54.png)
 
 무슨 계절이든, 이른 아침에는 조금 쌀쌀할 수 있어요. Wilson JD 퀼팅 자켓은 가볍게 충전되어 있고 쉽게 싸여서 모든 계절에 적합한 레이어 아이템입니다. 칼라는 신체에 잘 맞추어져서 스윙을 할 때 편하게 입을 수 있어요. 에센셜용으로 여러 개의 지퍼 포켓이 있으며, 티셔츠와 같은 아이템을 넣기에 딱 좋은 백 포켓도 있어요.
@@ -499,7 +499,7 @@ Comfort food for your wardrobe. The BLT Sweatshirt is made of max-comfy, super l
 ## PXG — 남성 슬림 트라우저 팬츠
 
 ![Image of PXG Men's Slim Trouser Pants](/assets/img/2024-05-16-ShopStylishTrendsThisMemorialDayWeekendBeyond_55.png)
-```
+
 
 
 

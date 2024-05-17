@@ -11,7 +11,7 @@ link: "https://medium.com/@stacy.mccann/map-my-run-a-diagnostic-journey-9070c5ea
 ---
 
 
-```markdown
+
 <img src="/assets/img/2024-05-17-RunningThroughaBotchedDiagnosis_0.png" />
 
 암 진단을 받은 순간, 듣고 나니 안도가 됐어요. 믿기 어려울 수도 있지만요. 그 해 여름, 저는 진료 사이의 긴 시간 동안 매일 여러 번도 경로를 달리며 훈련했어요. 폐가 타고 생각이 맑은 채로 달린 거구요. 달릴 수 없을 때엔 걸었어요. 진단 과정에서의 정신적, 육체적 힘든 일들이 저를 다 정진케 했기에, 끝났을 때 어딘가에 도착해서 기뻤어요.
@@ -19,7 +19,7 @@ link: "https://medium.com/@stacy.mccann/map-my-run-a-diagnostic-journey-9070c5ea
 오랜 기간 운동량을 유지해온 저는 살고 있는 섬에서 몇몇 루트를 정해 5km, 10km, 그리고 하프 마라톤을 준비했어요.
 
 ‘루프(Loop)’는 집 앞에서 시작되는 발자국이 2.5마일로 이어지는 길이에요. 아이들의 3학년 선생님 집을 지나서 이웃 사이의 뒷마당을 지나 가다가 리틀리그 구장을 지나 해변을 따라 가는 거리예요.
-```
+
 
 <div class="content-ad"></div>
 

@@ -22,7 +22,7 @@ link: "https://medium.com/coinmonks/venue-one-launches-on-chiliz-29c9e7078c0f"
 
 
 
-```markdown
+
 dApp : https://app.venue.one/speedy
 
 Join our Discord trading community: http://bit.ly/V1Discord
@@ -30,7 +30,7 @@ Join our Discord trading community: http://bit.ly/V1Discord
 Be a part of our global Telegram community: https://t.me/venuemarkets
 
 Follow us on Twitter : @VenueMarkets
-```
+
 
 
 

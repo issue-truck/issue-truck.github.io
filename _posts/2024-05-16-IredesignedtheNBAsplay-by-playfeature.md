@@ -80,7 +80,7 @@ link: "https://medium.com/@Pabloesquivelc/i-redesigned-the-nbas-play-by-play-fea
 
 
 
-```markdown
+
 ![Image 1](/assets/img/2024-05-16-IredesignedtheNBAsplay-by-playfeature_4.png)
 
 At this stage, I felt ready to start prototyping some medium fidelity wireframes.
@@ -88,11 +88,11 @@ At this stage, I felt ready to start prototyping some medium fidelity wireframes
 ![Image 2](/assets/img/2024-05-16-IredesignedtheNBAsplay-by-playfeature_5.png)
 
 I incorporated some of the iconography that I had briefly developed into the wireframes. However, I quickly realized that the team's colors were not enough to identify the team, and having the team logo beside each play was crucial.
-```
 
 
 
-```markdown
+
+
 ![Play-by-Play Feature Redesign](/assets/img/2024-05-16-IredesignedtheNBAsplay-by-playfeature_6.png)
 
 Sadly, this meant that the icons would have to be scrapped due to the lack of space in the UI. I revisited incorporating the icons later on, but I found them to be redundant in the end.
@@ -100,7 +100,7 @@ Sadly, this meant that the icons would have to be scrapped due to the lack of sp
 ## Colour Bars Idea
 
 I liked how placing a color bar beside every play helped indicate which team had made the play.
-```
+
 
 
 

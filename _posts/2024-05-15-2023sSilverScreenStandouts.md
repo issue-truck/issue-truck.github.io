@@ -51,7 +51,7 @@ link: "https://medium.com/@csolberg555/2023s-silver-screen-standouts-d599a57febc
 
 
 
-```markdown
+
 ![image](/assets/img/2024-05-15-2023sSilverScreenStandouts_2.png)
 
 Rosamund Pike가 Elspeth Catton 역으로 중요한 역할을 잘 소화하고 있으며, Conversations with Friends의 Alison Oliver가 Venetia 역으로 매우 다른 캐릭터를 표현하는 것을 즐겁게 감상했습니다.
@@ -59,7 +59,7 @@ Rosamund Pike가 Elspeth Catton 역으로 중요한 역할을 잘 소화하고 �
 전체 리뷰는 이 링크에서 확인해보세요.
 
 ## Barbie (Greta Gerwig)
-```
+
 
 
 

@@ -11,7 +11,7 @@ link: "https://medium.com/@efhl35/how-i-make-my-own-exfoliating-scrub-at-home-us
 ---
 
 
-```markdown
+
 ![My Homemade Exfoliating Scrub](/assets/img/2024-05-17-HowImakeMyOwnExfoliatingScrubAtHomeUsingTwoIngredients_0.png)
 
 내 피부 건강을 위해 피지 노폐물 제거의 중요성을 알고 아크네에 민감한 부분에 대해 감사하게 생각합니다. 하지만, 장갑, 미트, 전기 스크럽 브러시와 같은 피지 노폐물을 제거하기 위한 도구를 사용하기를 좋아하지 않아요. 왜냐하면 이 도구들은 세균과 박테리아가 쌓일 뿐만 아니라 유지 보수가 필요하기 때문입니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/@efhl35/how-i-make-my-own-exfoliating-scrub-at-home-us
 저는 엑스폴리에이팅 스크럽을 사용하는 것을 선호합니다. 특히 Dove, Crushed Macadamia & Rice Milk, Body Scrub를 좋아해요. 그 향과 질감, 또한 피부를 부드럽고 매끈하게 만드는 점이 맘에 들어요 — 그냥 제품 가격이 좀 비싸다는 점 빼고 말이죠.
 
 그래서 저는 달러 상점에서 사올 수 있는 두 제품을 사용해 집에서 나만의 엑스폴리에이팅 스크럽을 만들어요.
-```
+
 
 <div class="content-ad"></div>
 
@@ -43,8 +43,7 @@ link: "https://medium.com/@efhl35/how-i-make-my-own-exfoliating-scrub-at-home-us
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![image](/assets/img/2024-05-17-HowImakeMyOwnExfoliatingScrubAtHomeUsingTwoIngredients_1.png)
 
 I bought my cleanser, my table sugar, and even the locking jar I used for the exfoliating scrub from Dollar Tree for a total of $4.
-```

@@ -11,7 +11,7 @@ link: "https://medium.com/on-the-couch/when-a-relationship-ends-you-need-to-grie
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-WhenaRelationshipEndsYouNeedtoGrieveHeresHow_0.png)
 
 하
@@ -20,7 +20,7 @@ link: "https://medium.com/on-the-couch/when-a-relationship-ends-you-need-to-grie
 그렇다면, 분명히 화가 났을 것입니다. 그것이 당신을 화나게 했죠. 마음이 상처받았고 감정이 혼란스러운 상황에서 어떻게 "넘어가" 하라는 건가요?
 
 혹은 아마도 이미 "넘어가려" 노력해본 적이 있고, 전체적인 상황을 뒤로 두기 위해 노력했을 때도 전 여자친구에 대해 계속 생각하거나, 왜 문제가 생겼는지에 대해 생각해보는 자신을 발견할 수도 있었을 겁니다.
-```
+
 
 <div class="content-ad"></div>
 

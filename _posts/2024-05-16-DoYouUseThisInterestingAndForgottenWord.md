@@ -11,7 +11,7 @@ link: "https://medium.com/new-writers-welcome/you-probably-use-this-word-but-don
 ---
 
 
-```
+
 ![Image](/assets/img/2024-05-16-DoYouUseThisInterestingAndForgottenWord_0.png)
 
 ## 제가 언급한 단어를 맞추셨나요? 단서: 부제에 있습니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/new-writers-welcome/you-probably-use-this-word-but-don
 "무엇일까?" 라는 생각을 하시겠죠. 제 말을 읽으시면서요.
 
 제가 무슨 얘기를 하는 걸까요? 그리고 왜 이 글을 읽고 계시죠?
-```
+
 
 <div class="content-ad"></div>
 

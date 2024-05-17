@@ -31,7 +31,7 @@ link: "https://medium.com/@rajput623929/make-uhq-dorks-for-cracking-accounts-35b
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![2024-05-17-MakeUHQDorksforCrackingAccounts_1.png](/assets/img/2024-05-17-MakeUHQDorksforCrackingAccounts_1.png)
 
 ![2024-05-17-MakeUHQDorksforCrackingAccounts_2.png](/assets/img/2024-05-17-MakeUHQDorksforCrackingAccounts_2.png)
@@ -39,17 +39,17 @@ link: "https://medium.com/@rajput623929/make-uhq-dorks-for-cracking-accounts-35b
 Now we need to reverse it:
 
 ReverseTool: Paste all the words in the input field.
-```  
+  
 
 <div class="content-ad"></div>
 
-```
+
 ![ClickHere](/assets/img/2024-05-17-MakeUHQDorksforCrackingAccounts_3.png)
 
 copy its ouput and save into notepad file. just like this. [ClickHere](/assets/img/2024-05-17-MakeUHQDorksforCrackingAccounts_4.png)
 
 Now its time to replac whitespaces
-```
+
 
 <div class="content-ad"></div>
 

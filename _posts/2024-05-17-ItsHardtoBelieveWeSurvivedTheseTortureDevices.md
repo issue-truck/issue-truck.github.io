@@ -91,6 +91,5 @@ link: "https://medium.com/bouncin-and-behavin-blogs/its-hard-to-believe-we-survi
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-ItsHardtoBelieveWeSurvivedTheseTortureDevices_4.png)
-```

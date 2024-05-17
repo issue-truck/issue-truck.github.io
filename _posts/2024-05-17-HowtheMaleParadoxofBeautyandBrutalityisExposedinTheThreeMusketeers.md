@@ -141,7 +141,7 @@ link: "https://medium.com/the-book-cafe/how-the-male-paradox-of-beauty-and-bruta
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![image](/assets/img/2024-05-17-HowtheMaleParadoxofBeautyandBrutalityisExposedinTheThreeMusketeers_0.png)
 
 # 남자들은 즐거운 늑대 새끼와 같다
@@ -149,7 +149,7 @@ link: "https://medium.com/the-book-cafe/how-the-male-paradox-of-beauty-and-bruta
 어릴 때, 나는 다르타냥에 빠져 살았다. 어른이 된 이후, 그가 어리석다는 것을 깨달았다. 가장 흥미로운 그리고 존경받는 캐릭터는 밀라디 드 윈터이다.
 
 매우 차별화되어 있다.
-```
+
 
 <div class="content-ad"></div>
 

@@ -11,7 +11,7 @@ link: "https://medium.com/wake-write-win/5-surprising-and-fascinating-facts-abou
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-5SurprisingandFascinatingFactsAboutLanguagesYouDidntKnow_0.png)
 
 As a foreign language teacher, I have always been fascinated by different linguistic oddities.
@@ -19,7 +19,7 @@ As a foreign language teacher, I have always been fascinated by different lingui
 Today, in this short piece, I’d like to share some interesting facts you might not know.
 
 # 1) The longest English word
-```  
+  
 
 
 

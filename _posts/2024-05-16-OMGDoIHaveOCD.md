@@ -11,7 +11,7 @@ link: "https://medium.com/black-bear-recovery/omg-do-i-have-ocd-ffdeb86db127"
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-OMGDoIHaveOCD_0.png)
 
 몇 일 전에 일어난 일인데, 아직 어떻게 대처해야 할지 잘 모르겠어.
@@ -19,7 +19,7 @@ link: "https://medium.com/black-bear-recovery/omg-do-i-have-ocd-ffdeb86db127"
 갑자기 친구가 전화를 했는데, 그녀 입에서 나온 첫 말이 "저, 강박성 장애 있나요?" 였어요. 짧게 비껴 부른 용어를 사용했네.
 
 이 친구를 최소 2년은 알고 있고, 꽤 가까운 관계를 유지해 왔어요. 함께 놀았고, 함께 식사를 했고, 심지어 함께 여행도 다녔어. 과거에 우리는 서로 충분히 가까운 관계를 갖고 있었어요. 어느 순간 그 관계가 멀어지기 시작했어요. 소통하는 양이 줄어들었고, 함께 보내는 시간도 줄어들었고, 잠깐 동안 서로 연락이 끊겼어. 그럼에도 2년 안에 일어난 모든 일들이었기 때문에, 이 친구를 알고 있다고 편히 말할 수 있어요.
-```
+
 
 <div class="content-ad"></div>
 

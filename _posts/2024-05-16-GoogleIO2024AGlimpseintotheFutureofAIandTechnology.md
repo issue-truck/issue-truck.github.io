@@ -11,7 +11,7 @@ link: "https://medium.com/@rishabhbangaa/google-i-o-2024-a-glimpse-into-the-futu
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-GoogleIO2024AGlimpseintotheFutureofAIandTechnology_0.png)
 
 Google I/O '24에 직접 참석한 것은 정말 흥미진진한 경험이었어요, 특히 모바일 및 AI 추천 제품을 출시해 온 제품 매니저로서 말이죠. 올해 소개된 혁신들은 기술과 AI의 지형을 재정의할 것으로 보여요. 이곳에서 중요한 포인트를 확인해보세요:
@@ -19,7 +19,7 @@ Google I/O '24에 직접 참석한 것은 정말 흥미진진한 경험이었어
 1. 맥락을 이해하는 AI:
 
 간단한 키워드 검색의 시대가 점점 사라지고 있어요. 구글이 발표한 Ask Photos는 AI를 활용하여 사진의 맥락을 이해하고 복잡하고 섬세한 검색을 가능하게 합니다. “강아지가 빨간 모자를 쓰고 해변에서 찍은 나의 사진”을 검색해보세요. 이것이 검색의 미래이며, 이번 여름에 여러분의 사진에 적용될 예정입니다.
-```
+
 
 
 

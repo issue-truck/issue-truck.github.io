@@ -71,7 +71,7 @@ The disturbing part is that kids repeat the things they hear elsewhere. It makes
 
 
 
-```markdown
+
 ![이미지](/assets/img/2024-05-16-WeveGottoDoSomethingAboutDeathThreatsonSocialMedia_0.png)
 
 # "하지만 언급의 자유를 침해할 순 없어요!"
@@ -79,7 +79,7 @@ The disturbing part is that kids repeat the things they hear elsewhere. It makes
 인터넷에서의 사망 위협은 신뢰할 수 있는 위협이 아니라고 생각하지만, 그것이 중요한 점은 아닙니다. 문제는 이러한 대화가 우리 사회에 치명적인 영향을 미친다는 것입니다. 이것은 허용되어서는 안 되며, 우리에게는 그것이 발생하지 않도록 방지할 수 있는 기술이 있습니다.
 
 정치인을 위협하는 것은 불법입니다. 저는 동의하지 않는 많은 정치인들이 있으며, 그들이 불법 행위로 책임을 져야 한다고 생각합니다. 하지만 그러한 사람들의 생명을 위협하는 아이디어에는 강력히 반대합니다. 사실을 밝혀진다는 법률 체계가 있고 진실을 밝히는 방법입니다. 이것이 우리가 문명화된 사회로 남을 수 있는 방법입니다.
-```
+
 
 
 
@@ -103,7 +103,7 @@ The disturbing part is that kids repeat the things they hear elsewhere. It makes
 
 
 
-```markdown
+
 ![image](/assets/img/2024-05-16-WeveGottoDoSomethingAboutDeathThreatsonSocialMedia_2.png)
 
 # 이걸 고칠 수 있는 힘을 가지고 있어요
@@ -111,7 +111,7 @@ The disturbing part is that kids repeat the things they hear elsewhere. It makes
 사람들은 미끄러진 기울기 주장을 할 것입니다. 어디에서 끝나는 건가요? 그들은 충분하지 않다고 말할 거에요. 왜 우리는 강간 협박도 금지하지 않아야 하나요?
 
 대답은 금지해야 한다는 것이죠! 제 제안은 만병통치약은 아니지만 그것을 시작하게 합니다. 나는 무능한 행동을 옹호하는 데 타당한 주장이 없다고 생각합니다.
-```
+
 
 
 

@@ -31,7 +31,7 @@ link: "https://medium.com/@karnavpopat/part-2-making-xg-interpretable-f668bb4cf4
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-Part2MakingxGInterpretable_0.png)
 
 # Goalkeepers
@@ -39,7 +39,7 @@ link: "https://medium.com/@karnavpopat/part-2-making-xg-interpretable-f668bb4cf4
 개인적으로 저희는 위치 기반 기능과 같은 종류의 계산을 수행했어요. 수비팀 골키퍼에 대한 거의 동일한 계산입니다. 먼저, 좌표를 각각 터치 라인과 y-축으로 표현했습니다. 또한, 슈터와 골키퍼 사이의 절대 거리를 나타내는 기능을 계산했습니다.
 
 ![Image](/assets/img/2024-05-16-Part2MakingxGInterpretable_1.png)
-```
+
 
 
 
@@ -53,7 +53,7 @@ StatsBomb의 블로그 게시물을 바탕으로, 수비수의 영향력을 측�
 
 
 
-```markdown
+
 <img src="/assets/img/2024-05-16-Part2MakingxGInterpretable_2.png" />
 
 수비수를 나타내기 위해 한 점을 사용하는 것으로 인한 문제를 해결하기 위해, 우리는 가우시안 함수를 사용하여 수비수들이 경기장에 "영향"을 미치는 것으로 나타낼 수 있습니다. 우리는 각 지점에 "영향력 값"을 할당할 수 있으며, 이는 경기장의 모든 지점에서 선수들의 영향의 합을 나타냅니다 (슈터의 삼각형의 경우) 또는 슈터의 위치에서의 영향 (반지름의 경우). 우리는 이제 슛 위치와 두 골대 위치 사이의 삼각형 및 슈터 주변의 반지름에서 모든 상대팀 선수들이 가진 영향력 양을 계산할 수 있습니다. 이러한 매끄럽게 하는 것은 슈터 주변 반경 밖에 있는 수비수들도 게임에 일정한 영향을 미칠 수 있도록 합니다.
@@ -61,7 +61,7 @@ StatsBomb의 블로그 게시물을 바탕으로, 수비수의 영향력을 측�
 <img src="/assets/img/2024-05-16-Part2MakingxGInterpretable_3.png" />
 
 <img src="/assets/img/2024-05-16-Part2MakingxGInterpretable_4.png" />
-```
+
 
 
 
@@ -115,6 +115,5 @@ SelectFromModel (SFM)은 학습된 선형 모델의 가중치와 계수를 사�
 
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-Part2MakingxGInterpretable_6.png)
-```

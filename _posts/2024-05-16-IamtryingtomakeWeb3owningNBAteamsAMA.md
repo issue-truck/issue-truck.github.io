@@ -64,6 +64,5 @@ NBA 팀을 소유하는 것은 항상 내 꿈이었습니다. 특별한 수단 �
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![image](/assets/img/2024-05-16-IamtryingtomakeWeb3owningNBAteamsAMA_1.png)
-```

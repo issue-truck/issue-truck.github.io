@@ -67,7 +67,7 @@ Godzilla Minus One(2023)은 2016년에 공개된 Shin Godzilla(추천 시청 컨
 
 카피한 글씨의 코드 부분을 마크다운 형식으로 변환합니다.
 
-```
+
 A superbly written, directed and paced drama that, even without Godzilla, is a great film. The cast does an amazing job across the board. You FEEL the pain, the anger, the hopelessness, the strength to carry on, the ingenuity of people, and the fight for survival through and through.
 
 # The Technical Wizardry:
@@ -75,7 +75,7 @@ A superbly written, directed and paced drama that, even without Godzilla, is a g
 Similar to knowing how much the story was praised and yet it still surprised me by how great it was, the technical aspects of Godzilla Minus One follows suit.
 
 It truly is tech wizardry that with a production budget of only around 15 Million Dollars, the film was not only able to create so many practical sets with painstakingly detailed props bringing the era to life phenomenally, but it also has plenty of amazing CGI.
-```
+
 
 <div class="content-ad"></div>
 

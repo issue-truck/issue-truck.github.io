@@ -29,7 +29,7 @@ link: "https://medium.com/@manan.kher22/the-highs-and-lows-of-building-a-compute
 
 <div class="content-ad"></div>
 
-```
+
 ![이미지 1](/assets/img/2024-05-16-TheHighsandLowsofBuildingaComputerEngineeringProject_2.png)
 
 ![이미지 2](/assets/img/2024-05-16-TheHighsandLowsofBuildingaComputerEngineeringProject_3.png)
@@ -37,7 +37,7 @@ link: "https://medium.com/@manan.kher22/the-highs-and-lows-of-building-a-compute
 ![이미지 3](/assets/img/2024-05-16-TheHighsandLowsofBuildingaComputerEngineeringProject_4.png)
 
 아따르바는 자동화 및 핵심 알고리즘에 초점을 맞췄어요. 해당 웹사이트는 Selenium을 사용하여 GEBCO 웹사이트에서 해양 깊이 데이터를 자동으로 다운로드합니다. 한편, 사용자는 회수된 시체나 파편의 좌표 및 회수 시간을 입력할 수 있는 페이지로 리디렉션됩니다. 제공된 경우, 알고리즘은 회수된 시체를 되추적하여 역 표류 궤적 경로 및 Scikit-learn의 비지도 기계 학습 모델인 Kernel Density Estimation을 사용한 분포를 그립니다. 아따르바는 Selenium을 다루는 데 어려움을 겪었는데, 특히 동적 콘텐츠 처리 및 안정적인 다운로드를 보장하는 데 어려움이 있었지만, 많은 테스트와 조정을 통해 이 문제를 해결했습니다. 또한, 회수된 시체를 되추적하는 알고리즘을 개발하는 것은 쉬운 작업이 아니었습니다. 우리는 해양 풍류와 바람의 속도와 방향을 제공하는 API를 찾아야 했습니다. 이 데이터를 획득한 후, 아따르바는 현재와 풍향 벡터의 속도를 사용하여 시체를 1시간 단위로 되추적하는 알고리즘을 작성하는 데 성공했습니다.
-```
+
 
 <div class="content-ad"></div>
 

@@ -41,7 +41,7 @@ link: "https://medium.com/beyond-the-scoreboard/a-disastrous-refs-call-ousted-ba
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-ADisastrousRefsCallOustedBayernfromtheChampionsLeague_2.png)
 
 But what's even more significant:
@@ -49,7 +49,7 @@ But what's even more significant:
 Szymon Marciniak blew the whistle too quickly, halting a critical situation near the goal. By the time de Ligt scored milliseconds later, Madrid players had already paused due to the whistle.
 
 It's uncertain if de Ligt would have scored without the early whistle. Nevertheless, the referee shouldn't have stopped play prematurely and should have allowed the game to go on.
-```
+
 
 <div class="content-ad"></div>
 

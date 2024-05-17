@@ -111,13 +111,13 @@ Topaz가 훨씬 더 좋은 일을 한다는 걸 보실 수 있어요.
 
 
 
-```markdown
+
 ![The ISO 102,400 image after Lightroom de-noise filter](/assets/img/2024-05-16-TheISOsHaveIt_11.png)
 
 I was pleasantly surprised at how good the image looked despite being taken at ISO 102,400! Even after applying the Lightroom de-noise filter, the image at 25% scale still has some noise, but it's much better than not having the image at all.
 
 ![Topaz before/after view at 100% enlargement](/assets/img/2024-05-16-TheISOsHaveIt_12.png)
-```
+
 
 
 

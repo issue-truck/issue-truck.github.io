@@ -69,15 +69,15 @@ link: "https://medium.com/@candybarone_alignedaf/international-womens-day-honori
 
 나중에 세인트 루이스 카디널스 단체가 저희에게 연락을 취했습니다. 그들은 "야구의 여성"에 특별한 예언을 행하는 전시회를 마련 중이었으며 Helene를 기리는 특별한 것을 준비하고 싶었습니다. 그래서 저희 가족이 도와주었고 특별한 것을 만들었습니다.
 
-```markdown
+
 ![이미지](/assets/img/2024-05-16-InternationalWomensDayHonoringtheLegacyofMyGreat-GrandmotherandHerProminentRoleinBaseball_2.png)
-```
+
 
 2017년 6월, 저희 엄마, 누나, 동생과 함께 세인트 루이스, 미주리의 부시 스타디움으로 초대되어 제 할머니를 기리러 갔습니다. 저희 엄마는 Helene의 유일한 손녀이기 때문에 그 날 첫 구술을 던지게 되었습니다. 저희는 VIP 대우를 받고 제 할머니가 만든 역사와 유산에 대해 많은 것을 배웠습니다.
 
-```markdown
+
 ![이미지](/assets/img/2024-05-16-InternationalWomensDayHonoringtheLegacyofMyGreat-GrandmotherandHerProminentRoleinBaseball_3.png)
-```
+
 
 
 

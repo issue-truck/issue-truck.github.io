@@ -94,7 +94,7 @@ link: "https://medium.com/@vanice.txt/why-screenwriting-formulas-ruin-you-dd0004
 
 
 
-```markdown
+
 ![image](/assets/img/2024-05-16-WhyScreenwritingFormulasRuinYou_5.png)
 
 "All 트릭스 저구조의 인정을 믿는 것은 다음과 같은 주장에 근거합니다:
@@ -102,7 +102,7 @@ link: "https://medium.com/@vanice.txt/why-screenwriting-formulas-ruin-you-dd0004
 주장: “이야기에서 세 부분 구조라는 개념의 초기 버전을 아리스토텔레스의 4세기 BCE에 쓰여진 "시학"에 귀속시킬 수 있습니다."
 
 진실: 시학에는 "세 부분 구조"에 대한 언급이 없으며, 아리스토텔레스는 그에 대해 언급하지 않았습니다. 그가 생각한 것 중에는 "시작과 중간과 끝이 있는 것이 전부이다." 라는 말만 있을 뿐입니다. — 이는 다시 한번, 상당히 분명한 관찰입니다."
-```
+
 
 
 
@@ -116,7 +116,7 @@ link: "https://medium.com/@vanice.txt/why-screenwriting-formulas-ruin-you-dd0004
 
 
 
-```markdown
+
 ![image](/assets/img/2024-05-16-WhyScreenwritingFormulasRuinYou_6.png)
 
 **The Ultimate Claim:** “Syd Field’s three-act model is a well studied and proven formula universally present in all of cinema.”
@@ -124,7 +124,7 @@ link: "https://medium.com/@vanice.txt/why-screenwriting-formulas-ruin-you-dd0004
 **Truth:** One could argue that not even Syd Field could defend the three act structure as a truthful representation of how films work. In fact, I‘m willing to say that not a single movie that’s considered at least okay, has only three acts…
 
 Let’s unpack this a little bit more.
-```
+
 
 
 

@@ -11,7 +11,7 @@ link: "https://medium.com/thirty-over-fifty/how-youll-never-find-peace-until-you
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-HowYoullNeverFindPeaceUntilYouTakeControlofYourPain_0.png)
 
 나는 소년들이 울어서는 안 된다는 어리석은 생각으로 자랐어요. 누가 그 믿음을 만들었을까요? 그들은 억눌린 감정의 파괴적인 힘을 인식하지 못했나요?
@@ -19,7 +19,7 @@ link: "https://medium.com/thirty-over-fifty/how-youll-never-find-peace-until-you
 인간은 울 수 있는 능력이 있어요. 우리는 울어야 해요. 무언가가 터무니없다고 느낄 때 우리는 웃어요. 무언가를 받아 들여야 하는데 그것을 바꿀 권한이 없다고 깨달을 때 우리는 울어요.
 
 거리를 걸어 다니면서 웃을 수 있고 아무도 그걸 이상하게 생각하지 않는다는 거죠.
-```
+
 
 
 

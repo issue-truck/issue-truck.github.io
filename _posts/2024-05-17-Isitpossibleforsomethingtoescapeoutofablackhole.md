@@ -11,7 +11,7 @@ link: "https://medium.com/@varunnn_m/is-it-possible-for-something-to-escape-out-
 ---
 
 
-```markdown
+
 <img src="/assets/img/2024-05-17-Isitpossibleforsomethingtoescapeoutofablackhole_0.png" />
 
 블랙홀 - 우주의 미스터리, 그 미묘함과 무서움을 동시에 느끼게 하는 것. 미묘한 부분? 이해할 만 합니다. 무서운 이유는? 왜 무서운 걸까요?
@@ -19,7 +19,7 @@ link: "https://medium.com/@varunnn_m/is-it-possible-for-something-to-escape-out-
 블랙홀 안에는 무엇이 있을까요? 블랙홀에 빠지면 어떻게 될까요? 블랙홀 밖으로 무언가 나올 수 있을까요? 처음 두 질문에 대한 결론적인 답을 찾기 위해서는 우주 과학자들이 더 많은 연구를 해야 할 수도 있지만, 세 번째 질문에 대한 답은 결정적이며, 간단히 말해 '네' 라는 것입니다.
 
 자세한 답변:
-```
+
 
 <div class="content-ad"></div>
 

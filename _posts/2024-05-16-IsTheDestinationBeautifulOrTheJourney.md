@@ -11,7 +11,7 @@ link: "https://medium.com/@dadhosutho/is-the-destination-beautiful-or-the-journe
 ---
 
 
-```markdown
+
 ![Destination or Journey](/assets/img/2024-05-16-IsTheDestinationBeautifulOrTheJourney_0.png)
 
 누군가가 당신에게, 목적지와 여정 중에 어떤 것이 더 아름다운가요? 대답은 함께여야 합니다. 세계의 슬픔이 잊혀지고 사라질 수 있는 공감대라고 시인은 말합니다:
@@ -19,7 +19,7 @@ link: "https://medium.com/@dadhosutho/is-the-destination-beautiful-or-the-journe
 제 의견으로는, 가장 아름다운 관계는 추악한 끝이 있는 관계입니다. 이를 계속 이어가기보다는 아름다운 끝을 주는 것입니다. 하지만 우리의 비극은 우리가 자유롭게 놓아주는 것을 사랑으로 여기지 않는다는 것입니다. 우리는 사랑을 다른 것으로 이해해 왔습니다.
 
 이 이야기는 세상 지혜가 부족한 소년과 소녀의 이야기 입니다. 문학을 사랑하며, 시간의 장난스러운 굴곡이 서로를 만나게 했습니다.
-```
+
 
 <div class="content-ad"></div>
 

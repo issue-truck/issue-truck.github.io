@@ -33,7 +33,7 @@ link: "https://medium.com/@adinasocaci/2-understanding-articles-in-different-cas
 
 아래 Markdown 형식으로 변경해주세요:
 
-```
+
 ![이미지](/assets/img/2024-05-16-2UnderstandingArticlesinDifferentCasesandNumberLesson_1.png)
 
 # 부정관사
@@ -41,7 +41,7 @@ link: "https://medium.com/@adinasocaci/2-understanding-articles-in-different-cas
 부정관사는 특정하지 않거나 일반적인 명사를 가리킵니다.
 
 영어에서는 "a"와 "an"이 부정관사로 사용됩니다.
-```
+
 
 
 
@@ -55,7 +55,7 @@ link: "https://medium.com/@adinasocaci/2-understanding-articles-in-different-cas
 
 
 
-```markdown
+
 ![이미지](/assets/img/2024-05-16-2UnderstandingArticlesinDifferentCasesandNumberLesson_2.png)
 
 예시
@@ -65,7 +65,7 @@ link: "https://medium.com/@adinasocaci/2-understanding-articles-in-different-cas
 - Wir brauchen ein Auto. (우리는 차가 필요해요.)
 
 ## 부정적인 문장
-```
+
 
 
 

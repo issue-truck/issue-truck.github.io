@@ -31,7 +31,7 @@ link: "https://medium.com/@adityasharma25346978/i-never-appreciated-photography-
 
 
 
-```markdown
+
 ![Grayscale with selective color](/assets/img/2024-05-16-IneverappreciatedPhotographyuntilIstarteddoingsomemyself_2.png)
 
 ![Grayscale with selective color](/assets/img/2024-05-16-IneverappreciatedPhotographyuntilIstarteddoingsomemyself_3.png)
@@ -39,7 +39,7 @@ link: "https://medium.com/@adityasharma25346978/i-never-appreciated-photography-
 ![Grayscale with selective color](/assets/img/2024-05-16-IneverappreciatedPhotographyuntilIstarteddoingsomemyself_4.png)
 
 Grayscale pictures with selective coloring were only the beginning. I had found another kind of Photography in which the objects being captured would look unrecognizable in the picture even without filters.
-```
+
 
 
 
@@ -47,11 +47,11 @@ Grayscale pictures with selective coloring were only the beginning. I had found 
 
 이 사진을 보고 내가 찍은 객체를 추측해보세요.
 
-```markdown
+
 ![Image 1](/assets/img/2024-05-16-IneverappreciatedPhotographyuntilIstarteddoingsomemyself_5.png)
 
 ![Image 2](/assets/img/2024-05-16-IneverappreciatedPhotographyuntilIstarteddoingsomemyself_6.png)
-```
+
 
 
 

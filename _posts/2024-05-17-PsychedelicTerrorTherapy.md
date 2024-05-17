@@ -71,7 +71,7 @@ link: "https://medium.com/the-kraken-lore/psychedelic-terror-therapy-e2c7814a61f
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-PsychedelicTerrorTherapy_2.png)
 
 그는 자신의 삶을 처음으로 보았을 때, 현재의 자신이 그토록 순수하고 무조건적으로 사랑스러운 존재들 사이에 속할 수 없다는 것을 알았습니다. 구체는 빛나면서 멀어져 가기 시작했고, 그리고 순식간에 사라졌습니다.
@@ -79,7 +79,7 @@ link: "https://medium.com/the-kraken-lore/psychedelic-terror-therapy-e2c7814a61f
 그 끔찍한 순간에, 그는 어둠 속에 혼자 남아 이 생애에서 자신이 된 사람의 무게를 혼자 견뎠습니다.
 
 그는 많은 영혼들이 겪었던 고통을 경험했습니다. 그러나 이제 그는 아직 구원의 가능성이 있다는 것을 알고 있었습니다.
-```
+
 
 <div class="content-ad"></div>
 

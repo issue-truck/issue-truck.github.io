@@ -11,7 +11,7 @@ link: "https://medium.com/change-your-mind/4-better-alternatives-to-fasting-for-
 ---
 
 
-```markdown
+
 <img src="/assets/img/2024-05-17-4BetterAlternativestoFastingforExecutivesOver40toLoseBodyFatandImproveEnergyLevels_0.png" />
 
 위치한 복부 주변의 빈틈한 체지방에 고민이 계십니까?
@@ -19,7 +19,7 @@ link: "https://medium.com/change-your-mind/4-better-alternatives-to-fasting-for-
 40대 초반 이상의 임원으로서 단식은 빠른 해결책처럼 보일 수 있지만, 사실 해를 더 줄 수도 있습니다.
 
 단식이 최상의 방식이 아닌 이유와 그 대신 집중해야 할 것에 대해 알아보겠습니다.
-```
+
 
 <div class="content-ad"></div>
 

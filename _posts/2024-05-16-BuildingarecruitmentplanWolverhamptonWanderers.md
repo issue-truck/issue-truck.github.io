@@ -193,7 +193,7 @@ Hugo Bueno와 Nélson Semedo는 페널티 에리어 내 패스 면에서 좋은 
 
 <div class="content-ad"></div>
 
-```markdown
+
 <img src="/assets/img/2024-05-16-BuildingarecruitmentplanWolverhamptonWanderers_17.png" />
 
 다음으로, 90분당 드리블 수를 살펴보면, 로드리는 90분당 평균 5.99회의 드리블을 하며 성공률은 62.37%입니다. 에드워즈는 90분당 8.28회의 드리블을 하지만 성공률은 평균 이하인 49.79%입니다.
@@ -201,7 +201,7 @@ Hugo Bueno와 Nélson Semedo는 페널티 에리어 내 패스 면에서 좋은 
 페드로 곤살베스는 90분당 평균 3.74회의 드리블을 하며 세 명 중에서 가장 낮은 47.65%의 성공률을 가지고 있습니다.
 
 <img src="/assets/img/2024-05-16-BuildingarecruitmentplanWolverhamptonWanderers_18.png" />
-```
+
 
 <div class="content-ad"></div>
 

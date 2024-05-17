@@ -11,7 +11,7 @@ link: "https://medium.com/real-stories/an-accidental-fashion-writer-29f8ecc812a4
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-AnAccidentalFashionWriter_0.png)
 
 패션은 화려할지도 모르지만, 그것에 대해 쓰는 일은 거의 그렇지 않았어요.
@@ -19,7 +19,7 @@ link: "https://medium.com/real-stories/an-accidental-fashion-writer-29f8ecc812a4
 나는 1979년에 첫 번째 패션 이야기를 판매했고, 2015년에 마지막 이야기를 팔았어요. 다시는 패션에 대한 이야기를 쓰고 싶지 않았어요. 절대로요! 나는 패션 이야기를 더 이상 쓰고 싶지 않았어요. 나는 잘 써져 있지 않은 운동복을 입고 맛있는 소설을 즐기는 것에 대해 준비가 되어 있었어요.
 
 한동안 나는 그 일을 했지만, 그렇게 했어요.
-```
+
 
 <div class="content-ad"></div>
 

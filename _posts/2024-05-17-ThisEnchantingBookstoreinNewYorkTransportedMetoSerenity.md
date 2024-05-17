@@ -91,8 +91,7 @@ link: "https://medium.com/globetrotters/this-enchanting-bookstore-in-new-york-tr
 
 <div class="content-ad"></div>
 
-```
+
 Ville Albertine
 
 The Payton Whitney Mansion
-```

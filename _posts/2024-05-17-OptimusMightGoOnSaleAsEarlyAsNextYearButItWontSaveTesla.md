@@ -11,7 +11,7 @@ link: "https://medium.com/predict/optimus-might-go-on-sale-as-early-as-next-year
 ---
 
 
-```markdown
+
 ![Optimus Robot](/assets/img/2024-05-17-OptimusMightGoOnSaleAsEarlyAsNextYearButItWontSaveTesla_0.png)
 
 안녕하세요! Optimus, 다른 이름으로 Tesla Bot을 기억하시나요? 이것은 보스턴 다이내믹스 인간형 로봇에 대한 머스크의 대답이었지만 능력은 덜 합니다. 이건 헛된 표현이 아닙니다. 보스턴 다이내믹스 로봇들은 장애물 코스와 역도를 할 수 있습니다. 반면에 Optimus는 심지어 사람의 도움없이 셔츠도 접을 수 없습니다. 그럼에도 불구하고, 머스크는 Optimus에 대한 잠재적 수요가 수십억 대에 이르며, 살인적인 인간을 대체하여 일자리 시장을 대대적으로 혼란스럽게 만들 수 있다고 주장했습니다. 그래서 최근 머스크가 이 긴급 상황 로봇이 내년에도 공개 판매될 수 있다고 발표하자, 소란이 일었습니다. 이것이 테슬라가 필요한 계기가 될 수 있을까요? 아니면 머스크가 허공을 붙잡고 있는 것일까요?
@@ -19,7 +19,7 @@ link: "https://medium.com/predict/optimus-might-go-on-sale-as-early-as-next-year
 먼저 Optimus의 능력과 Musk와 다른 이들이 그것에 기대하는 것을 살펴봅시다.
 
 Optimus는 Tesla의 FSD가 동작하는 동일한 계산 하드웨어로 구동되는 인간형 로봇입니다. 로봇 뒤의 AI 또한 FSD와 매우 유사하여 동일한 컴퓨터 비전 시스템을 통합합니다. 머스크는 이것이 Optimus가 이전에는 사람이 수행해야했던 반복적이거나 위험한 작업을 할 수 있도록 한다고 주장합니다. 공장 라인 작업자, 관리인, 목수 또는 건설 작업자를 생각해보세요. 하지만 Optimus는 이미 대규모로 생산되는 하드웨어에 기반하기 때문에 머스크는 테슬라가 단위당 20,000달러에 판매할 수 있다고 주장합니다!
-```
+
 
 <div class="content-ad"></div>
 

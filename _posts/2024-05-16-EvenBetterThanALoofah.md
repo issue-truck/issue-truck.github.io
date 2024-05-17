@@ -21,7 +21,7 @@ link: "https://medium.com/tiara-cake/even-better-than-a-loofah-4eb44e6c2b3e"
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Scrubber Image 2](/assets/img/2024-05-16-EvenBetterThanALoofah_2.png)
 
 The soft bristles of the scrubber provide a comforting touch to your skin. It's not just a tool for applying body wash and cleansing; it also gently exfoliates and refreshes your skin. Users have praised its non-irritating nature, ensuring a pleasant bathing experience. Additionally, it comes in a variety of colors.
@@ -29,7 +29,7 @@ The soft bristles of the scrubber provide a comforting touch to your skin. It's 
 ![Scrubber Image 3](/assets/img/2024-05-16-EvenBetterThanALoofah_3.png)
 
 ![Scrubber Image 4](/assets/img/2024-05-16-EvenBetterThanALoofah_4.png)
-```
+
 
 <div class="content-ad"></div>
 

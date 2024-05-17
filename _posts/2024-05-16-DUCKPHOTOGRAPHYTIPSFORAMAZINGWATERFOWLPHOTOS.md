@@ -31,7 +31,7 @@ link: "https://medium.com/@dereknielsenphotography/duck-photography-tips-for-ama
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![image](/assets/img/2024-05-16-DUCKPHOTOGRAPHYTIPSFORAMAZINGWATERFOWLPHOTOS_1.png)
 
 우선 안전이 최우선입니다. 모든 지역 공원이 동일하게 안전한 것은 아닙니다. 이 이야기에서 대부분의 이미지가 촬영된 시카고 험볔트 공원은 범죄와 노숙자 문제가 있습니다. 주변을 주의 깊게 살피고 상식을 사용하세요.
@@ -39,7 +39,7 @@ link: "https://medium.com/@dereknielsenphotography/duck-photography-tips-for-ama
 그렇지만, 나는 오리 사진 촬영과 조류 이주를 위해 험볔트 공원을 좋아합니다. 자신의 위치를 이해하면 대상을 더 잘 찾을 수 있고 좀 더 강한 구도를 만들 수 있습니다. 해는 어디에서 뜨고 어디에서 지는가? 오리들은 어디에서 모이는가? 공원의 어떤 장소가 내 최종 사진의 배경을 더 좋게 만드는가? 이 모두 고려해야 할 중요한 질문들입니다.
 
 우리 지역 공원의 일부 라군 지역은 다른 곳보다 바람이 세요. 열린 물 영역은 바람으로부터 보호되는 좁은 채널보다 사진을 촬영하기 어렵습니다. 환경은 각 사진의 결과에 큰 영향을 미치며, 자신의 위치에 대한 더 나은 이해는 좋은 사진을 뛰어난 사진으로 만드는 가능성을 높이는 좋은 방법입니다.
-```
+
 
 <div class="content-ad"></div>
 

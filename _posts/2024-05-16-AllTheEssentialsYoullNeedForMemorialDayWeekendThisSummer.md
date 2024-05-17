@@ -63,7 +63,7 @@ YSL Beauty의 상징인 오일 인퓨즈드 립스틱이 이제는 모던한 중
 
 
 
-```markdown
+
 ![image](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_4.png)
 
 Ulta Beauty Collection’s Artist Series celebrates individuality, creativity and self-expression by shining a light on talented artists through unique, exclusive beauty collaborations. This collection was designed by Puerto Rican multidisciplinary artist, COVL.
@@ -71,7 +71,7 @@ Ulta Beauty Collection’s Artist Series celebrates individuality, creativity an
 ## evian® Facial Mist
 
 ![image](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_5.png)
-```
+
 
 
 
@@ -165,7 +165,7 @@ Shark® SpeedStyle™는 속도와 파워에 중점을 둔 경량의 선도적�
 
 
 
-```
+
 ![Detox Hair Mask](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_15.png)
 
 "황동색을 중화시키고 수분을 공급하며 컬러를 유지하면서 빛을 살리는 헤어 세레모니입니다. 이 세트에는 새로운 디톡스 헤어 마스크, 브라이트 밸런스 헤어바스 + 컨디셔너, 스위트 스피릿 리브 인 컨디셔너, 그리고 아이 크리에이트 샤인이 포함되어 있습니다.
@@ -173,7 +173,7 @@ Shark® SpeedStyle™는 속도와 파워에 중점을 둔 경량의 선도적�
 ## Alfaparf Milano — 컬즀 강화 헤어 마스크
 
 ![Curls Enhancing Hair Mask](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_16.png)
-```
+
 
 
 
@@ -227,7 +227,7 @@ NIVEA Skin Firming Sheer Hydration Lotion는 가볍고 강렬한 수분을 제�
 
 
 
-```markdown
+
 ![Gorilla Lifestyle Products](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_22.png)
 
 Gorilla Lifestyle의 제품은 소비자들에게 레크리에이션 헴프 유래 대마 제품의 세계를 경험할 기회를 제공합니다. 시장에서 새롭고 혁신적인 플레이어인 Gorilla Lifestyle은 최근 다양한 섭취용 헴프 제품을 출시하여 일상 경험을 향상시킬 수 있도록 설계되었습니다. CBD부터 HHC, Delta 9까지, 각 Gorilla Lifestyle 제품은 다양한 수준의 편안함과 즐거움을 제공하기 위해 특별히 설계되었으며, 어떤 종류의 데이트 나이트에도 이상적입니다.
@@ -235,7 +235,7 @@ Gorilla Lifestyle의 제품은 소비자들에게 레크리에이션 헴프 유�
 ### 필수 콜라겐 솔루션 젤리 스틱
 
 ![Essential Collagen Solution Jelly Stick](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_23.png)
-```
+
 
 
 
@@ -259,7 +259,7 @@ APOTHEKE x Peach Truck Peach Orchard 캔들은 여름이 도래한 기쁨을 정
 
 
 
-```markdown
+
 ![Lavender and Vanilla Candle](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_25.png)
 
 라벤더와 바닐라가 어우러져 밤에나 낮잠 시간에 완벽히 어울리는 편안하고 평화로운 향기를 만듭니다. 수면 촛불 (8 온스)은 100% 리드프리 면 솜사탕 심지를 갖고 있는 천연, 깨끗한 연소되는 대두/코코넛 왁스 혼합물을 특징으로 합니다. 파라벤, 필라테스, 황화나트륨/황화라우레스, 광물 오일이 없는 다소 총심없는 50시간 동안 연소시간을 경험해보세요. 감각에 빠져들고 수면과 함께 완전히 몰입적인 경험을 만들어보세요.
@@ -267,7 +267,7 @@ APOTHEKE x Peach Truck Peach Orchard 캔들은 여름이 도래한 기쁨을 정
 ## 바오밥 컬렉션 트리오 여행 촛불
 
 ![Baobab Collection Trio Travel Candles](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_26.png)
-```
+
 
 
 
@@ -291,7 +291,7 @@ Marshalls에서 만든 정교하게 디자인된 러너로 빈티지 룩을 만�
 
 
 
-```
+
 ![image](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_29.png)
 
 Keep watch over your doorstep with the convenience of a wire-free, battery-operated video doorbell that provides full coverage to see from head to toe. Easily set up on any access point to your home or business.
@@ -299,7 +299,7 @@ Keep watch over your doorstep with the convenience of a wire-free, battery-opera
 ## Sonos Move 2
 
 ![image](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_30.png)
-```
+
 
 
 
@@ -433,7 +433,7 @@ Ninja Thirsti™는 제로 칼로리, 제로 설탕 (1회 제공량 기준) 플�
 
 
 
-```
+
 
 ![이미지](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_46.png)
 
@@ -442,7 +442,7 @@ Ninja Thirsti™는 제로 칼로리, 제로 설탕 (1회 제공량 기준) 플�
 ## 레일라 대나무 시트
 
 ![이미지](/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_47.png)
-```
+
 
 
 
@@ -466,7 +466,7 @@ Layla® Bamboo Sheets는 100% 대나무 비스코스로 제작되어 매우 부�
 
 
 
-```markdown
+
 <img src="/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_50.png" />
 
 Its four-stage air filtration with a true HEPA filter and Plasma Ion Technology removes dust and dirt, pet dander, smoke, and pollen from the air, so you can breathe more easily.
@@ -474,7 +474,7 @@ Its four-stage air filtration with a true HEPA filter and Plasma Ion Technology 
 ## Shark AI Ultra™ Self-Empty Robot Vacuum
 
 <img src="/assets/img/2024-05-16-AllTheEssentialsYoullNeedForMemorialDayWeekendThisSummer_51.png" />
-``` 
+ 
 
 
 

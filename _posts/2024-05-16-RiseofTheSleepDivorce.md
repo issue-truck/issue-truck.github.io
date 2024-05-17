@@ -11,7 +11,7 @@ link: "https://medium.com/@seanjkernan/rise-of-the-sleep-divorce-b100f5a0ea57"
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-16-RiseofTheSleepDivorce_0.png)
 
 어둠에 잠겨 일어났을 때, 파도에 밀려 온 배 위에 있다는 듯한 충격을 받았어요. 땀을 흘리며 일어섰고, 무슨 일이 일어난 건지, 혹은 침입 시도가 있었는지 궁금해했어요. 그때 옆에서 하품소리를 들었어요, “그만!”
@@ -19,7 +19,7 @@ link: "https://medium.com/@seanjkernan/rise-of-the-sleep-divorce-b100f5a0ea57"
 졸음과 어둠 속에서 나는 “어?” 했어요, 전혀 혼란스러워했죠.
 
 그것은 제 배우자, 로라였어요. 그러고 나서, 그녀는 속삭이듯이, “그만 해! 네 숨이 내 귀 쪽으로 나와! 그리고 넌 내 반 침대에 있어!”
-```
+
 
 <div class="content-ad"></div>
 

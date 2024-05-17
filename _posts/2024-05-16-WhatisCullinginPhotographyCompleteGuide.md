@@ -214,7 +214,7 @@ Culling은 향상된 효율성, 더 강력한 사진, 그리고 더 행복한 �
 
 
 
-```markdown
+
 ![이미지](/assets/img/2024-05-16-WhatisCullinginPhotographyCompleteGuide_2.png)
 
 컬링은 정말 바빠서 최상의 도구가 필요합니다. 하지만 그 중 어떤 것이 좋을까요?
@@ -222,7 +222,7 @@ Culling은 향상된 효율성, 더 강력한 사진, 그리고 더 행복한 �
 걱정하지 마세요, 제가 추천하는 최고의 옵션들을 소개해 드릴게요:
 
 ## Lightroom
-```
+
 
 
 
