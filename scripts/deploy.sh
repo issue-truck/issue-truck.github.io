@@ -17,11 +17,11 @@ yarn build
 cd out
 
 # gh-pages clone
-git clone -b gh-pages https://github.com/issue-truck/issue-truck.github.io/
+# git clone -b gh-pages https://github.com/issue-truck/issue-truck.github.io/
 cp -rf issue-truck.github.io/.git ./.git
 git config user.name "issue-truck"
 git config user.email "13akstjq.blog19@gmail.com"
-rm -rf issue-truck.github.io
+# rm -rf issue-truck.github.io
 
 touch .nojekyll
 
