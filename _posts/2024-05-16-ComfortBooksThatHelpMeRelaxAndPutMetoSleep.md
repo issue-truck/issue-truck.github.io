@@ -43,9 +43,9 @@ link: "https://medium.com/books-are-our-superpower/comfort-books-that-help-me-re
 
 만약 궁금하고 재미있는 방식으로 기초 과학 개념을 배우고 싶다면 이 책을 꼭 읽어보세요.
 
-## 빌 브라이슨의 <거의 모든 것에 대한 단편적인 역사>에서 내가 가장 좋아하는 명언들
+## 빌 브라이슨의 거의 모든 것에 대한 단편적인 역사에서 내가 가장 좋아하는 명언들
 
-# 닐 게이먼의 <별빛>
+# 닐 게이먼의 별빛
 
 ![이미지](/assets/img/2024-05-16-ComfortBooksThatHelpMeRelaxAndPutMetoSleep_2.png)
 
