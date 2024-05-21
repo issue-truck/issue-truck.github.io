@@ -89,7 +89,7 @@ Bradley는 Alexander-Arnold와 유사한 적극성과 성숙함을 보여주었�
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![2024-05-17-PremierLeagueTitleRace202324_4.png](/assets/img/2024-05-17-PremierLeagueTitleRace202324_4.png)
 
 # Title Scenarios
@@ -98,7 +98,7 @@ Bradley는 Alexander-Arnold와 유사한 적극성과 성숙함을 보여주었�
 
 - 만약 맨체스터 시티가 질리고 아스널이 승리한다면, 아스널이 타이틀을 차지합니다. 맨체스터 시티가 웨스트햄을 상대로 이기면, 그들은 네 번째 타이틀을 처치하게 됩니다.
 - 그러나, 맨체스터 시티가 비기고 웨스트햄이 이긴다면, 아스널이 골 득실 차이를 기반으로 타이틀을 가져갈 것입니다.
-```
+
 
 <div class="content-ad"></div>
 

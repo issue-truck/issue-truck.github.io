@@ -63,11 +63,11 @@ SoHo와 East Village 사이의 죽은 지역에 있는 아일랜드 술집에서
 
 마크다운 형식으로 표를 변경하십시오.
 
-```markdown
+
 | Ones | Zeros |
 |------|-------|
 |  1   |   0   |
-```
+
 
 <div class="content-ad"></div>
 

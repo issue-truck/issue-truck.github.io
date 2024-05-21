@@ -151,7 +151,7 @@ VC 마인드를 이해하세요.
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-18-10Mind-ExpandingBooksRecommendedbySamAltmanGetReadytoHaveYourWorldRocked_5.png)
 
 So many new and amazing things happening!
@@ -159,7 +159,7 @@ So many new and amazing things happening!
 Peter Thiel argues that technological innovation has come to a standstill.
 
 Thiel talks about Vertical vs Horizontal progress:
-```
+
 
 <div class="content-ad"></div>
 
@@ -252,7 +252,7 @@ Thiel talks about Vertical vs Horizontal progress:
 
 <div class="content-ad"></div>
 
-```
+
 ![이미지](/assets/img/2024-05-18-10Mind-ExpandingBooksRecommendedbySamAltmanGetReadytoHaveYourWorldRocked_9.png)
 
 지도자가 되는 불편한 진실에 대해.
@@ -260,7 +260,7 @@ Thiel talks about Vertical vs Horizontal progress:
 잭 웰치는 일반 전기의 전 CEO입니다. 그의 지배 아래 GE는 전례 없는 높이에 도달했습니다.
 
 웰치가 어느 날 CEO가 되기 위해 눈을 뜬 것은 아니었습니다. 그는 시간이 지나며 사다리를 오르려고 노력했습니다. 그의 시작점은 GEO에서 화학 엔지니어로서였습니다.
-```
+
 
 <div class="content-ad"></div>
 

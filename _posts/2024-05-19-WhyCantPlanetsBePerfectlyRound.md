@@ -39,8 +39,7 @@ link: "https://medium.com/@moonborn2k2/why-cant-planets-be-perfectly-round-9ae40
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image 1](/assets/img/2024-05-19-WhyCantPlanetsBePerfectlyRound_1.png)
 
 ![Image 2](/assets/img/2024-05-19-WhyCantPlanetsBePerfectlyRound_2.png)
-```

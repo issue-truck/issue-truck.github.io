@@ -116,7 +116,7 @@ link: "https://medium.com/@baddiesglow/stay-smudge-free-how-to-choose-the-best-w
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image 1](/assets/img/2024-05-21-StaySmudge-FreeHowtoChoosetheBestWaterproofMascaraforSummer_8.png)
 
 이 비건 제품은 민감한 눈을 가진 분들과 속눈썹 건강에 관심이 있는 분들에게 좋은 선택입니다. 광물 기반의 안과의사 테스트를 거친 이 마스카라는 자극 없이 속눈썹을 길게하고 강화합니다. 더불어 함께 제공되는 속눈썹 콤브는 속눈썹을 분리해 규정된 자연스러운 모습을 연출해줍니다.
@@ -124,7 +124,7 @@ link: "https://medium.com/@baddiesglow/stay-smudge-free-how-to-choose-the-best-w
 - e.l.f. Lash It Loud 워터프루프 마스카라 ($6).
 
 ![Image 2](/assets/img/2024-05-21-StaySmudge-FreeHowtoChoosetheBestWaterproofMascaraforSummer_9.png)
-```
+
 
 <div class="content-ad"></div>
 
@@ -138,7 +138,7 @@ link: "https://medium.com/@baddiesglow/stay-smudge-free-how-to-choose-the-best-w
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Stay Smudge-Free: How to Choose the Best Waterproof Mascara for Summer](/assets/img/2024-05-21-StaySmudge-FreeHowtoChoosetheBestWaterproofMascaraforSummer_10.png)
 
 This lash favorite goes big on volume and length. The unique brush design lifts and separates lashes, while the waterproof formula ensures they stay flawless all day long. Perfect for poolside selfies and capturing those summer memories!
@@ -146,7 +146,7 @@ This lash favorite goes big on volume and length. The unique brush design lifts 
 - Wet n Wild Mega Waterproof Mascara ($3.79).
 
 ![Stay Smudge-Free: How to Choose the Best Waterproof Mascara for Summer](/assets/img/2024-05-21-StaySmudge-FreeHowtoChoosetheBestWaterproofMascaraforSummer_11.png)
-```
+
 
 <div class="content-ad"></div>
 

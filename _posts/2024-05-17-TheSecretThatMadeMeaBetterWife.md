@@ -11,7 +11,7 @@ link: "https://medium.com/heart-affairs/the-secret-that-made-me-a-better-wife-6d
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-TheSecretThatMadeMeaBetterWife_0.png)
 
 우리 모두는 우리의 결혼이 다르고 특별하며, 다른 이들을 괴롭히는 혼란에서 면역력을 갖는 것으로 생각합니다. 나 또한 예외는 아니었습니다. 그런데 어느 날, 감정을 통한 불륜으로 인해 세계가 뒤죽박죽이 되었습니다. 그것은 육체적인 것은 아니었지만, 나의 결혼의 기초를 뒤흔들었습니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/heart-affairs/the-secret-that-made-me-a-better-wife-6d
 그런데, 역설적으로, 그것은 나를 더 나은 아내로 만들었습니다.
 
 에스더 페렐의 "The State of Affairs: Rethinking Infidelity" 중에서 특히 "Affairs Are Not What They Used to Be" 장은 이 복잡한 지역을 탐색하는 데 도움이 되는 깊은 통찰을 제공했으며, 제가 이것을 따라갈 것이며, 더 많은 교훈을 이 놀라운 책에서 공유할 것을 약속합니다.
-```
+
 
 <div class="content-ad"></div>
 

@@ -51,7 +51,7 @@ IMDb 줄거리 요약:
 
 <div class="content-ad"></div>
 
-```
+
 ![Great Scene Cast Away 2](/assets/img/2024-05-21-GreatSceneCastAway_2.png)
 
 ![Great Scene Cast Away 3](/assets/img/2024-05-21-GreatSceneCastAway_3.png)
@@ -59,11 +59,11 @@ IMDb 줄거리 요약:
 ![Great Scene Cast Away 4](/assets/img/2024-05-21-GreatSceneCastAway_4.png)
 
 ![Great Scene Cast Away 5](/assets/img/2024-05-21-GreatSceneCastAway_5.png)
-```
+
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image 6](/assets/img/2024-05-21-GreatSceneCastAway_6.png)
 
 ![Image 7](/assets/img/2024-05-21-GreatSceneCastAway_7.png)
@@ -71,7 +71,7 @@ IMDb 줄거리 요약:
 ![Image 8](/assets/img/2024-05-21-GreatSceneCastAway_8.png)
 
 ![Image 9](/assets/img/2024-05-21-GreatSceneCastAway_9.png)
-```
+
 
 <div class="content-ad"></div>
 

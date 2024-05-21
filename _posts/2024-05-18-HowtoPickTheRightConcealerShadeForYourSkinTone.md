@@ -11,7 +11,7 @@ link: "https://medium.com/@mycompletebalance/how-to-pick-the-right-concealer-sha
 ---
 
 
-```markdown
+
 ![Concealer Shade Guide](/assets/img/2024-05-18-HowtoPickTheRightConcealerShadeForYourSkinTone_0.png)
 
 Concealer shade for your skin tone is like a superhero, capable of hiding imperfections, brightening the under-eye area, and creating a flawless complexion. But with so many shades and formulas available, finding the right concealer can feel like a daunting task. One of the most critical steps in mastering your makeup routine is selecting the perfect concealer shade for your skin tone. In this comprehensive guide, we’ll explore everything you need to know to find the ideal concealer shade that seamlessly blends with your natural complexion.
@@ -19,7 +19,7 @@ Concealer shade for your skin tone is like a superhero, capable of hiding imperf
 ## Understanding Your Undertone:
 
 Before diving into the world of concealer shade for your skin tone, it’s essential to understand your undertone. Your undertone is the subtle hue beneath the surface of your skin that influences how colors appear on your complexion. There are three main undertones: warm, cool, and neutral.
-```
+
 
 <div class="content-ad"></div>
 

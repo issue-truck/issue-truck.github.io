@@ -11,7 +11,7 @@ link: "https://medium.com/@mariamseme/bridgerton-my-thoughts-about-the-polin-sea
 ---
 
 
-```markdown
+
 ![Image 0](/assets/img/2024-05-21-BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_0.png)
 
 ![Image 1](/assets/img/2024-05-21-BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_1.png)
@@ -19,7 +19,7 @@ link: "https://medium.com/@mariamseme/bridgerton-my-thoughts-about-the-polin-sea
 Bridgerton is one of those series where you can tell that a lot of time and thought process have been extensively utilized. The cinematography, the storytelling, the music, the culture, the theme! It takes a whole lot of execution and I give them their flowers a 100 times.
 
 ![Image 2](/assets/img/2024-05-21-BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_2.png)
-```
+
 
 <div class="content-ad"></div>
 
@@ -73,7 +73,7 @@ Anthony와 Kate가 화면에서 별로 보이지 않았다니 정말 기뻐요. 
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_10](/assets/img/2024-05-21-BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_10.png)
 
 The Featheringtons (I don't know if I spelled it correctly) are a whole drama, not only trying to produce an heir but also not understanding what sex is. Sex education was virtually non-existent in those days, and they really portrayed that aspect well. But those who knew, knew it very well.
@@ -81,11 +81,11 @@ The Featheringtons (I don't know if I spelled it correctly) are a whole drama, n
 Lord Denbly is such a fine man, and I honestly wish he ended up with Pen, because the whole Lady Whistledown's drama is leading to a lot of chaos.
 
 ![BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_11](/assets/img/2024-05-21-BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_11.png)
-```  
+  
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![link](/assets/img/2024-05-21-BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_12.png)
 
 Colin will forgive, won't he? Especially after that intense make-out session in the carriage with Pen at the end. Why did he do that to Pen 😭? But it was pretty hot, right?
@@ -93,7 +93,7 @@ Colin will forgive, won't he? Especially after that intense make-out session in 
 ![link](/assets/img/2024-05-21-BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_13.png)
 
 ![link](/assets/img/2024-05-21-BRIDGERTONMYTHOUGHTSABOUTTHEPOLINSEASONTWEETSPICTURES_14.png)
-```
+
 
 <div class="content-ad"></div>
 

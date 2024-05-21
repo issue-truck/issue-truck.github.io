@@ -11,7 +11,7 @@ link: "https://medium.com/@andrewnelsun/lets-try-to-understand-the-difference-be
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-LetstrytoUnderstandtheDifferenceBetweenAnythingandSomething_0.png)
 
 Choosing between 'anything' and 'something' is like finding the missing puzzle piece - one fits perfectly, while the other feels a bit off.
@@ -19,7 +19,7 @@ Choosing between 'anything' and 'something' is like finding the missing puzzle p
 Make sense?
 
 Although these two words might seem similar, they serve different purposes in our sentences. Let's explore their differences in a casual and easy-to-understand manner.
-```
+
 
 <div class="content-ad"></div>
 

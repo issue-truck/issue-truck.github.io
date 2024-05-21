@@ -11,7 +11,7 @@ link: "https://medium.com/a-la-rose/best-lipsticks-for-deep-autumns-645b02300f39
 ---
 
 
-```markdown
+
 ![Chosen lipstick for deep autumn](/assets/img/2024-05-21-BestLipsticksforDeepAutumns_0.png)
 
 공개: 제가 사용하는 제품만을 추천하며, 여기에 표현된 모든 의견은 제 개인적인 의견입니다. 본 게시물에는 제품 링크가 포함될 수 있으며, 이 링크를 통해 구매하시면 별도의 비용이 청구되지 않고 제수수료를 받을 수 있습니다. 감사합니다!
@@ -19,7 +19,7 @@ link: "https://medium.com/a-la-rose/best-lipsticks-for-deep-autumns-645b02300f39
 립스틱. 그것은 제가 가장 좋아하는 메이크업 제품 중 하나입니다. 그러나 제 피부톤과 잘 맞는 립스틱을 찾는 것은 종종 궁극적인 탐험이라고 느껴집니다. 그래서 제가 개인 컬러 분석을 신청했습니다. 제 분석가는 제가 깊은 가을인 것을 발견했고, 정말 기뻤어요! 따뜻한 레드와 갈색이 아름다우며, 금이 제 피부에 아주 잘 어울립니다. 이 색 팔레트에 특히 잘 어울리는 립 색상은 토마토 레드, 테라코타 핑크, 계피 갈색 등이 있습니다.
 
 ![Chosen lipstick for deep autumn](/assets/img/2024-05-21-BestLipsticksforDeepAutumns_1.png)
-```
+
 
 <div class="content-ad"></div>
 

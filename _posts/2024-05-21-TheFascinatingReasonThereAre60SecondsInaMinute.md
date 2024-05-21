@@ -11,7 +11,7 @@ link: "https://medium.com/@grantpiperwriting/the-fascinating-reason-there-are-60
 ---
 
 
-```markdown
+
 ![image](/assets/img/2024-05-21-TheFascinatingReasonThereAre60SecondsInaMinute_0.png)
 
 Have you ever wondered why there are 60 seconds in a minute and 60 minutes in an hour? People often take this for granted because it has been this way for thousands of years. If you can believe it, the ordering of our clocks took place nearly 4,000 years ago. Our clocks work on intervals of sixty because that is how the Sumerians and Babylonians did it. The ancient Babylonians began codifying their astronomical beliefs and findings in the 14th century BCE, or 3400 years ago. It is from these calculations and assumptions that we get many of our most basic and common numbers.
@@ -19,7 +19,7 @@ Have you ever wondered why there are 60 seconds in a minute and 60 minutes in an
 The Sumerians came up with a base sixty numbering system called a sexagesimal system (say that six times fast.) The sexagesimal system bases everything off of the number sixty. We use a base ten number system today which bases everything on intervals of ten. However, there are numerous benefits of a sexagesimal system that are lost to us today.
 
 The number sixty is the smallest number divisible by the first six counting numbers (1, 2, 3, 4, 5, and 6). Sixty is also divisible by by 10, 12, 15, 20, and 30. This makes it convenient extremely convenient for division. The number sixty has eleven easy divisors that make splitting it up into simple groups super easy.
-```
+
 
 <div class="content-ad"></div>
 

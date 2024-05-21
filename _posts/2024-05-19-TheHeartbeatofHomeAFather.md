@@ -71,7 +71,7 @@ link: "https://medium.com/@sara_0703/the-heartbeat-of-home-a-father-63e6e338bc77
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-19-TheHeartbeatofHomeAFather_2.png)
 
 그는 세상에 대적해 가면서, 다양한 사람들을 마주하고, 더 나은 기회를 찾아 직업을 바꿔가며 당신을 위해 최선을 다하고자 했습니다.
@@ -79,7 +79,7 @@ link: "https://medium.com/@sara_0703/the-heartbeat-of-home-a-father-63e6e338bc77
 내가 말하건대, 당신의 아버지는 세상에서 오직 자신보다 당신이 인생에서 성공하기를 가장 바라는 사람입니다. 그가 얼마나 좋은 사람이던 당신보다 두 배 더 잘되기를 항상 원할 것입니다.
 
 전 세계가 당신을 등돌리더라도, 그는 불흔하게 당신 곁에 서 있을 것입니다.
-```
+
 
 <div class="content-ad"></div>
 
@@ -113,8 +113,7 @@ link: "https://medium.com/@sara_0703/the-heartbeat-of-home-a-father-63e6e338bc77
 
 <div class="content-ad"></div>
 
-```Markdown
+
 ![Image](/assets/img/2024-05-19-TheHeartbeatofHomeAFather_4.png)
 
 I previously wrote an article that describes the love parents have for us. If you haven't read it yet, here is the link to it:
-```

@@ -11,7 +11,7 @@ link: "https://medium.com/long-sweet-valuable/wanna-know-how-i-learn-new-skills-
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-21-WannaKnowHowILearnNewSkillsIEmbraceHumility_0.png)
 
 “It is impossible for a man to learn what he thinks he already knows.” - Epictetus, Roman Philosopher.
@@ -19,7 +19,7 @@ link: "https://medium.com/long-sweet-valuable/wanna-know-how-i-learn-new-skills-
 Oh yes!
 
 For a long time, I had wanted to learn French on my own. I had dabbled in it while studying Spanish Language and Spanish Literature at University.
-```
+
 
 <div class="content-ad"></div>
 

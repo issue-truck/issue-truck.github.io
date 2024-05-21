@@ -11,7 +11,7 @@ link: "https://medium.com/beyond-the-scoreboard/leading-my-high-school-baseball-
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-LeadingMyHighSchoolBaseballTeamfromWorsttoFirst_0.png)
 
 긴장되어 해바라기 씨앗을 씹으며 더그아웃 입구 벽에 기댄 채, 침착한 자신감을 뿜어내고 있었다. 나의 고등학교 준배스볼팀은 세인트 폴스와의 경기에서 편안한 7-2 리드를 늦게 버려버렸다.
@@ -19,7 +19,7 @@ link: "https://medium.com/beyond-the-scoreboard/leading-my-high-school-baseball-
 이제는 접전이 되었다, 7-6. 작년에는 이 팀이 꺾이고, 리드를 놓고, 스스로를 포기했을 것이다.
 
 이 팀은 어떨까? 
-```
+
 
 <div class="content-ad"></div>
 
@@ -85,7 +85,7 @@ link: "https://medium.com/beyond-the-scoreboard/leading-my-high-school-baseball-
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![image](/assets/img/2024-05-17-LeadingMyHighSchoolBaseballTeamfromWorsttoFirst_1.png)
 
 이기는 문화를 만드는 첫 번째 단계는 규율을 심어주는 것이었습니다. 군대 신병을 훈련하는 것처럼, 이 팀은 굳은 기초 위에 재구성되어야 했습니다.
@@ -93,7 +93,7 @@ link: "https://medium.com/beyond-the-scoreboard/leading-my-high-school-baseball-
 나는 마운드에 깔끔하고 조직된 주저앉기공간을 만드는 것에 신속했습니다. 선수들이 스트레칭을 하면서 장갑을 깔끔하게 줄지어 놓고, 워밍업할 때 함께 던지도록 했습니다.
 
 선수들에게 연습 시에 셔츠를 안으로 넣고, 지정된 유니폼 착용하고, 모자를 올바르게 쓰고 목걸이를 셔츠 안에 넣도록 요구하는 데 부끄러워하지 않았습니다.
-```
+
 
 <div class="content-ad"></div>
 

@@ -11,7 +11,7 @@ link: "https://medium.com/@BopcheShubham/content-to-the-rescue-bfdf255f8633"
 ---
 
 
-```markdown
+
 <img src="/assets/img/2024-05-21-ContenttotheRescue_0.png" />
 
 # 요! 새로운 기능 알림! 사용자가 실제로 사용할 수 있을까요?
@@ -19,7 +19,7 @@ link: "https://medium.com/@BopcheShubham/content-to-the-rescue-bfdf255f8633"
 알았어, 알았어, 알았어! 멋진 새로운 기능을 출시했어. 제품팀이 고무장갑을 맞잡고, 샴페인 캔을 열었어 - 파티야! 하지만 기다려봐, 우승의 춤을 춰보기 전에 사용자 채택에 대해 이야기해보자. 솔직하게 말하자면, 사용자가 루빅스 큐브 앞에서 헷갈리는 강아지처럼 그것을 바라보고 있는데, 반짝이는 새로운 기능은 약간 쓸모가 없는 거야.
 
 여기서 콘텐츠가 컨텐츠 마케팅 슈퍼히어로처럼 들어와요(그 망토? 완전 내 콘텐츠 전략입니다). 이것이 사용자의 혼란을 "와, 이 기능 진짜 멋지네!"로 바꿀 수 있는 콘텐츠를 어떻게 만드는지 알려드릴게요.
-```
+
 
 <div class="content-ad"></div>
 

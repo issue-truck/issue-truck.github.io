@@ -11,7 +11,7 @@ link: "https://medium.com/crows-feet/the-cruel-but-inevitable-body-changes-that-
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-TheCruelButInevitableBodyChangesThatComeWithAging_0.png)
 
 내 머리카락은 급속도로 사라지고 있어. 곧 대머리나 뒤집개를 받아들여야 할 것 같아. 둘 다 매력적이지 않아. 거미 정맥과 복부는 받아들였지만, 머리카락은 안돼. 이게 내가 아닐 수가 없어.
@@ -19,7 +19,7 @@ link: "https://medium.com/crows-feet/the-cruel-but-inevitable-body-changes-that-
 이제 나는 대머리가 되어가는 남자들을 주목하게 됐어. 그들처럼 보고 싶지 않아. 머리 색은 상관 없어. 나는 '저스트 포 맨' 제품을 사용하는 사람이 아니야. 머리양이 걱정돼, 적어지고 있는 것 같아. 적어도 내 두피 위쪽엔.
 
 10년 전에 가장 먼저 눈에 띈 것은 '남자 젖가슴'이었어. 울. 그리고 괴상한 곳에 머리카락이 자라기 시작했어—무릎아래, 귀와 코에서. 크. 눈썹이 잡초처럼 자라기 시작했고 등에 털까지 난 겨. 머리카락만 아닐 뿐더러. 지독한 거미 정맥이 다리에 나타났고. 내 태닝된 팔에는 작은 하얀 동그라미 모양의 피부가 나타났어.
-```
+
 
 <div class="content-ad"></div>
 

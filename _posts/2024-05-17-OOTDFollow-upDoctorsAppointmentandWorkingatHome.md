@@ -21,11 +21,11 @@ link: "https://medium.com/a-style-of-my-own/ootd-follow-up-doctors-appointment-a
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![첫 번째 마지막 서리 날 이후의 내 작은 북서쪽 PA 마을. 오후에는 75도가 될 거예요. 너무 좋아. 축하로 반바지를 입었어요. 다음은 11월까지 다시 춥지 않을 거예요!
 
 하지만 따뜻한 날씨도 아니에요. 날씨가 화창한 75도도 아니죠. 가벼운 스웨터와 함께 매치했어요. 무지개 띠가 기분을 좋게 만들어줘요. 사진에서는 제가 가장 좋아하는 집 슬리퍼를 신고 있지만, 밖에 나갈 때는 노란색 체크 패턴 반스를 신을 거예요.
-```
+
 
 
 <div class="content-ad"></div>

@@ -21,12 +21,12 @@ link: "https://medium.com/go-into-the-story/script-to-screen-the-big-lebowski-82
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image 1](/assets/img/2024-05-18-ScriptToScreenTheBigLebowski_1.png)
 ![Image 2](/assets/img/2024-05-18-ScriptToScreenTheBigLebowski_2.png)
 ![Image 3](/assets/img/2024-05-18-ScriptToScreenTheBigLebowski_3.png)
 ![Image 4](/assets/img/2024-05-18-ScriptToScreenTheBigLebowski_4.png)
-```
+
 
 <div class="content-ad"></div>
 

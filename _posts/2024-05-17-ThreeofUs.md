@@ -11,7 +11,7 @@ link: "https://medium.com/@dadhosutho/three-of-us-48fcdc3f6826"
 ---
 
 
-```markdown
+
 ![이미지](/assets/img/2024-05-17-ThreeofUs_0.png)
 
 어떤 영화들은 말로 표현할 수 없어요.
@@ -25,7 +25,7 @@ link: "https://medium.com/@dadhosutho/three-of-us-48fcdc3f6826"
 
 영화에서 어느 순간, 셀라자가 말해요
 우리가 일상을 잊는다는 것을요.
-```
+
 
 <div class="content-ad"></div>
 

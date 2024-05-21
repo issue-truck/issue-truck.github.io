@@ -11,7 +11,7 @@ link: "https://medium.com/@chef-boyardeji/use-this-step-by-step-process-to-make-
 ---
 
 
-```markdown
+
 <img src="/assets/img/2024-05-21-UseThisStepbyStepProcesstoMake5000PerMonthWithFreelanceWriting_0.png" />
 
 안녕하세요. 오늘은 프리랜스 라이팅으로 돈을 벌 수 있는 단계별 프로세스를 보여드릴 거에요.
@@ -19,7 +19,7 @@ link: "https://medium.com/@chef-boyardeji/use-this-step-by-step-process-to-make-
 만약 과거로 돌아갈 수 있다면, 저는 프리랜스 라이팅을 시작하고 라이팅 경력 초창기에 고수료 클라이언트를 확보하여 직장을 빨리 그만둘 수 있었을 텐데요.
 
 프리랜싱은 섹시한 일은 아니지만, 큰 개인 브랜드를 만들 동안 자금 유입이 필요할 때 도움이 될 수 있어요. 이 두 마리 토끼를 잡는 것 같은 전략을 사용했을 거에요:
-```
+
 
 <div class="content-ad"></div>
 

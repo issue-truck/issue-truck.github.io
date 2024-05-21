@@ -48,7 +48,7 @@ link: "https://medium.com/ellemeno/three-french-novels-you-must-read-if-you-ever
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Book cover](/assets/img/2024-05-18-ThreeFrenchNovelsYouMustReadifYouEverLearnFrench_2.png)
 
 # L’étranger (1942) — Albert Camus (The Outsider)
@@ -56,7 +56,7 @@ link: "https://medium.com/ellemeno/three-french-novels-you-must-read-if-you-ever
 ![Book cover](/assets/img/2024-05-18-ThreeFrenchNovelsYouMustReadifYouEverLearnFrench_3.png)
 
 I first read the book in English when I was 20, after finding it in a pile of my grandfather’s belongings after his death.
-```
+
 
 <div class="content-ad"></div>
 
@@ -100,8 +100,7 @@ Sogol은 그 산 속의 특정 암석 때문에 여전히 발견되지 않아야
 
 <div class="content-ad"></div>
 
-```markdown
+
 [![image](/assets/img/2024-05-18-ThreeFrenchNovelsYouMustReadifYouEverLearnFrench_6.png)]()
 
 Thanks for reading. For more books.
-```

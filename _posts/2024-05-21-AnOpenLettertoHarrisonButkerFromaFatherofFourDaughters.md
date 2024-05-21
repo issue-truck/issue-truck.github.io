@@ -11,7 +11,7 @@ link: "https://medium.com/bitchy/an-open-letter-to-harrison-butker-from-a-father
 ---
 
 
-```
+
 ![A letter image](/assets/img/2024-05-21-AnOpenLettertoHarrisonButkerFromaFatherofFourDaughters_0.png)
 
 오, 해리슨, 해리슨, 해리슨. 우리 할 얘기가 많이 있어.
@@ -19,7 +19,7 @@ link: "https://medium.com/bitchy/an-open-letter-to-harrison-butker-from-a-father
 이에 대해 얘기하기 전에, 먼저 정보를 전달할게.
 
 너는 나에게 감사해야 해. 나는 여자와 결혼했어! 나는 번식을 했어. 실제로 4번이나. 내 아내와 나는 네 딸들을 축복 받았어.
-```
+
 
 <div class="content-ad"></div>
 
@@ -183,10 +183,9 @@ NFL은 당신의 발언에 대해 "NFL 조직의 견해가 아닙니다... 리�
 
 아래는 이해를 돕기 위한 번역입니다:
 
-```markdown
+
 이 이야기는 시스타 퍼블리케이션 일부인 더 포인트 오브 뷰에서 제공되었습니다.
 
 6월 7일과 8일, 비치 미디어가 주최하는 무료 글쓰기 워크샵이 있습니다. 여러분을 초대합니다.
 
 자세한 내용과 등록은 여기를 클릭해주세요.
-```

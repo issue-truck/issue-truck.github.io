@@ -46,7 +46,7 @@ link: "https://medium.com/@christian.graham_49279/using-chatgpt-for-innovation-j
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![이미지](/assets/img/2024-05-17-UsingChatGPTforinnovationJourneymappingStoryboarding_0.png)
 
 우리가 개념을 입력하면 다음과 같은 응답이 옵니다:
@@ -54,7 +54,7 @@ link: "https://medium.com/@christian.graham_49279/using-chatgpt-for-innovation-j
 그럴싸해 보이고, 사용자가 누구인지에 대해 흥미로우나 공정한 가정을 했다. 분명히, 이를 이어서 대규모 다국적 석유 회사의 임원과 같이 더 어려운 사용자 페르소나로 바꾸는 요청을 할 수 있습니다. 또는 여행지도에서 일부 단계를 추가/삭제할 수도 있습니다.
 
 다음 단계는 이 출력물을 다시 다른 GPT인 "여행지도 스토리보드 생성기"에 입력하는 것입니다. 이 GPT는 우리의 여행지도로부터 6개 패널 스토리보드를 생성하는 데 집중할 것입니다.
-```
+
 
 <div class="content-ad"></div>
 

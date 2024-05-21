@@ -11,13 +11,13 @@ link: "https://medium.com/@skeiiidameee/if-all-i-managed-today-was-to-get-out-of
 ---
 
 
-```markdown
+
 ![Image](/assets/img/2024-05-17-IfallImanagedtodaywastogetoutofmybedwouldyoustillbeproud_0.png)
 
 저는 지금 많은 것을 이룬 사람들이나 미래에 무엇을 향해 목표를 세우거나 누구가 되고 싶은지를 알고 구체적인 계획을 가지고 있는 사람들을 부러워합니다. 매일 아침 일어나는 것조차 어려운데 그런 중요한 결정들을 어떻게 하는 걸까요?
 
 다른 사람들에게는 쉽게 처리되는 것 같은데, 제게 오면 고난이 되어버립니다. 세계가 빠르게 움직이고 제가 뒤처지고 있는 것 같아요. 만약 세계의 기준을 충족시킬 수 없다면 어떻게 될까요? 어떤 사람이 될까요? 어디에서 끝나게 될까요? 이런 질문들이 항상 저를 괴롭힙니다.
-```
+
 
 <div class="content-ad"></div>
 

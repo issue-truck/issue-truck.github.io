@@ -11,7 +11,7 @@ link: "https://medium.com/@ElanorRice/thank-you-harrison-butker-6921098ed37a"
 ---
 
 
-```markdown
+
 ![Harrison Butker](/assets/img/2024-05-18-ThankYouHarrisonButker_0.png)
 
 한 번의 열정적인 발언으로 Harrison Butker가 우연히 가톨릭교회와 미국 축구 리그에서 수년에 걸친 은폐와 속임수에 잠재적인 결정타를 날렸습니다.
@@ -19,7 +19,7 @@ link: "https://medium.com/@ElanorRice/thank-you-harrison-butker-6921098ed37a"
 스캔들 뒤에 스캔들, 그리고 또 스캔들을 뒤따르던 가운데, 두 기관은 점점 질려가는 대중에게 거부감을 일으키는 모습들을 정화하기 위해 열년 가까이 노력해 왔는데, Butker는 그 노력들을 크게 훼손한 것일 수 있습니다.
 
 가톨릭교회는 여성에 대한 혐오, 동성애자들에 대한 편견, 반과학/반의학 정책, 그리고 성폭행범들에 대한 지지로부터 대중들의 눈길을 돌리기 위해 긴 시간 노력해 왔습니다.
-```
+
 
 <div class="content-ad"></div>
 

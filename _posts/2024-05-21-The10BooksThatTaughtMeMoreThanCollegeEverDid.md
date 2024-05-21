@@ -31,7 +31,7 @@ link: "https://medium.com/@NovelNestBooks/the-10-books-that-taught-me-more-than-
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image](/assets/img/2024-05-21-The10BooksThatTaughtMeMoreThanCollegeEverDid_0.png)
 
 The climb to the top.
@@ -39,7 +39,7 @@ The climb to the top.
 Humans evolved to be the most dominant species.
 
 We created culture, language, hierarchies, and religion. This is what Harari explores in his book.
-```
+
 
 <div class="content-ad"></div>
 
@@ -163,7 +163,7 @@ Naval Ravikant은 투자가이자 철학자입니다.
 
 아래 텍스트를 Markdown 형식으로 변경해주세요:
 
-```
+
 <img src="/assets/img/2024-05-21-The10BooksThatTaughtMeMoreThanCollegeEverDid_6.png" />
 
 사업가나 그렇게 되고 싶어하는 사람들을 위한 안내서입니다.
@@ -171,7 +171,7 @@ Naval Ravikant은 투자가이자 철학자입니다.
 조시 카프만은 비즈니스에 대해 알려주고 있습니다.
 
 비즈니스 학교에 가지 않고도 비즈니스를 다루고 처리할 수 있도록 우리를 준비합니다.
-```
+
 
 <div class="content-ad"></div>
 

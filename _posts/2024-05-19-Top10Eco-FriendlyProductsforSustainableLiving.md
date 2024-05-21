@@ -43,7 +43,7 @@ Hydro Flask, S’well, 그리고 Klean Kanteen은 스타일리시하고 효율�
 
 아래는 Markdown 형식이에요.
 
-```markdown
+
 ![이미지](/assets/img/2024-05-19-Top10Eco-FriendlyProductsforSustainableLiving_1.png)
 
 추천 브랜드
@@ -51,7 +51,7 @@ Hydro Flask, S’well, 그리고 Klean Kanteen은 스타일리시하고 효율�
 고품질의 대나무 칫솔을 원하신다면 Brush with Bamboo, The Humble Co., 그리고 GREENZLA를 확인해보세요.
 
 3. 태양열 충전기: 혜택
-```
+
 
 <div class="content-ad"></div>
 
@@ -145,13 +145,13 @@ LED와 같은 에너지 효율적인 전구는 전통적인 백열 전구보다 
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Recommended Brands](/assets/img/2024-05-19-Top10Eco-FriendlyProductsforSustainableLiving_9.png)
 
 Look for sustainable furniture from Pipishell, ClickDecor, and SAN HE, Sustainable Collection.
 
 Conclusion
-```
+
 
 <div class="content-ad"></div>
 

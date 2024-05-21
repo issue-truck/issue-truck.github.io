@@ -31,7 +31,7 @@ link: "https://medium.com/@nuhahassan/bridgerton-season-3-review-nicola-coughlan
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Bridgerton Season 3 Review](/assets/img/2024-05-19-BridgertonSeason3ReviewTheYearoftheWallflowers_2.png)
 
 지난 여러 해 동안, Bridgerton과 분파 시리즈인 Queen Charlotte은 주요 캐릭터들 간의 확실한 화학 반응으로 유명해졌습니다. 첫 번째 시즌에서는 Simon Hastings (Regé Jean-Page)와 Daphne Bridgerton (Phoebe Dynevor)이 가짜 연애 또는 구애의 스토리라인을 따랐는데, 황홀하고 화끈한 장면들이 펼쳐졌습니다. Anthony Bridgerton (Jonathan Bailey)과 Kate Sharma (Simone Ashley)는 불타는 욕망으로 가득한 적대적인 사랑하는 관계의 트라이프를 따랐고, 어린 여왕 Charlotte (India Amarteifio)와 어린 킹 조지 (Corey Mylchreest)는 인종에 대한 논란적인 주제를 다룬 비극적인 적대 관계에서 사랑하는 관계로 이끌어졌습니다.
@@ -39,7 +39,7 @@ link: "https://medium.com/@nuhahassan/bridgerton-season-3-review-nicola-coughlan
 이런 캐릭터들과는 달리, Penelope와 Colin 또는 "Polin"이라고 팬들이 부르는 두 사람은 상당한 시간을 함께 보냈습니다.
 
 첫 번째 시즌부터 Penelope가 Colin에게 감정을 품은 것이 분명합니다. 다른 사람들이 무례한 발언을 할 때 그가 그녀를 위해 일어섰으며, 최소한 Penelope에게는 그가 그의 감정을 인정해 주었습니다. 그러나 Colin이 그녀의 감정을 계속하여 무시하고 시즌 2 마지막에 한 발언으로 많은 경고 신호를 보냅니다. 화면에서 오랫동안 기다려온 로맨스를 관람하는 것은 기쁨이지만, Colin이 Penelope의 마음을 얻기 위한 노력이 가치가 있을지 의문이 드는 부분입니다. 동시에, Colin이 Penelope과 Lord Debling의 새로운 관계에 대해 질투와 아내를 빌다는 것을 보는 것은 웃긴 일입니다.
-```
+
 
 <div class="content-ad"></div>
 
@@ -77,9 +77,9 @@ Penelope와 Colin의 로맨스가 이 화려한 시즌의 중심 사건이지만
 
 시즌 세에는 그가 여행을 끝내고 책을 쓰려는 생각을 하면서 왔다. 그것이 그의 이야기의 끝입니다. 콜린은 대부분의 시간을 페넬로페를 그리워하며 보내고, 다른 갈등에 대처하는 모습을 보여주지 않아요. 걔는 그냥 있을 뿐입니다. 그들의 로맨스가 발전하는 것을 보는 것은 멋지지만, 콜린은 일차원적인 캐릭터입니다. 그에게 더 이상 일어나는 것이 없습니다. 그는 부자인 브리지턴이 세계를 여행하고 있습니다. 비록 세 시즌 동안 콜린의 캐릭터가 발전해온 것을 보았지만, 특정한 불일치는 그의 특징에 불안한 분위기를 전합니다.
 
-```markdown
+
 <img src="/assets/img/2024-05-19-BridgertonSeason3ReviewTheYearoftheWallflowers_6.png" />
-```
+
 
 <div class="content-ad"></div>
 

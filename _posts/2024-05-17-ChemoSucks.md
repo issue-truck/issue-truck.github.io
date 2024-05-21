@@ -11,7 +11,7 @@ link: "https://medium.com/@juliovincent/chemo-sucks-0a045e63d190"
 ---
 
 
-```md
+md
 ![Chemotherapy](/assets/img/2024-05-17-ChemoSucks_0.png)
 
 케모요법은 진짜 싫어요. 정말 진짜로요. 아프고, 고통스럽고, 정말 싫어요. 만년생 강아지에게 소년과 같이 싫어요. 소년들은 진짜 역겹죠. 과제나 비트를 싫어하는 10살 아이보다 더 싫어요. 으엉! 진짜 미련해요! 여자가아닌 10대들이 핸드폰을 부적당하게 가져가서 부엌 서랍장에 넣어두는 것을 싫어하는 것보다 더 싫어요. 삶은 어렵죠. 진짜 싫어요.
@@ -19,7 +19,7 @@ link: "https://medium.com/@juliovincent/chemo-sucks-0a045e63d190"
 6일 전 제 12회 중 3번째 케모요법을 받았어요. 2주에 2일을 6개월 동안 받아야 해요. 3기 대장암을 치료하기 위해서요. 7인치 종양과 5개의 악성 림프절을 발견했어요. 많은 숫자들이에요. 숫자들은 싫지 않아요. 하지만 케모 요법은 진짜 싫어요. 네, 그렇죠. 실례하지만 진짜로 싫어요. 46살의 남자인데 이제 낑낑대는 애로 변했어요.
 
 약미, 신경병증, 편두통, 완전한 피로감. 의학 용어로는 피로라고 해요. 간호사들이 그렇게 말하죠. 무력감이라고 하지 않는 거예요. 발음을 고치면 거만한 사람처럼 들릴 수도 있어요. 먹거나 마시는 모든 것이 아주 작은 금속 조각처럼 맛이 나요. 알루미늄 호일을 씹는 느낌이에요. 레이노즈 랩을 씹는 것처럼요. 스칸듐이나 란타넘이나 세륨을 삼키는 느낌이에요. 금속들을 검색했어요.
-```
+
 
 <div class="content-ad"></div>
 
@@ -33,7 +33,7 @@ link: "https://medium.com/@juliovincent/chemo-sucks-0a045e63d190"
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![image](/assets/img/2024-05-17-ChemoSucks_1.png)
 
 "They say it's better than the alternative. They say cancer can really be a gift if you choose to see it that way. They say 'This too shall pass.' Shut up. 'It's temporary.' It feels eternal. 'This is how you heal.' This is monstrous. 'You're 25% through it.' You're not full of poison. 'You get to ring the bell in five more months.' Do I, Nurse Nicole?
@@ -41,7 +41,7 @@ link: "https://medium.com/@juliovincent/chemo-sucks-0a045e63d190"
 Chemo sucks. It makes you lay and think. It stops time so it can break you. Why was I so convinced I was invincible? How could I not have known how good I had it? Did I really not understand how lucky I was to be healthy? How can I feel this bad and be a cliché?
 
 Just to be healthy."
-```
+
 
 <div class="content-ad"></div>
 

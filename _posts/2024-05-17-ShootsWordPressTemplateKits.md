@@ -11,7 +11,7 @@ link: "https://medium.com/@glowgenius99/shoots-wordpress-template-kits-e7b78e3b9
 ---
 
 
-```markdown
+
 ![Screenshot 1](/assets/img/2024-05-17-ShootsWordPressTemplateKits_0.png)
 
 ![Screenshot 2](/assets/img/2024-05-17-ShootsWordPressTemplateKits_1.png)
@@ -19,16 +19,16 @@ link: "https://medium.com/@glowgenius99/shoots-wordpress-template-kits-e7b78e3b9
 ![Screenshot 3](/assets/img/2024-05-17-ShootsWordPressTemplateKits_2.png)
 
 ![Screenshot 4](/assets/img/2024-05-17-ShootsWordPressTemplateKits_3.png)
-```
+
 
 <div class="content-ad"></div>
 
-```markdown
+
 ![Image 4](/assets/img/2024-05-17-ShootsWordPressTemplateKits_4.png)
 ![Image 5](/assets/img/2024-05-17-ShootsWordPressTemplateKits_5.png)
 ![Image 6](/assets/img/2024-05-17-ShootsWordPressTemplateKits_6.png)
 ![Image 7](/assets/img/2024-05-17-ShootsWordPressTemplateKits_7.png)
-```
+
 
 <div class="content-ad"></div>
 
@@ -103,7 +103,7 @@ Further Information
 
 <div class="content-ad"></div>
 
-```markdown
+
 Lensa — Camera & Photography Equipment Store Elementor Template Kit by jegtheme
 
 ![Image 1](/assets/img/2024-05-17-ShootsWordPressTemplateKits_11.png)
@@ -111,7 +111,7 @@ Lensa — Camera & Photography Equipment Store Elementor Template Kit by jegthem
 Skyward by ThemeREX
 
 ![Image 2](/assets/img/2024-05-17-ShootsWordPressTemplateKits_12.png)
-```
+
 
 <div class="content-ad"></div>
 
