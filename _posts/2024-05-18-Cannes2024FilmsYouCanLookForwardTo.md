@@ -21,13 +21,13 @@ Mugdha Bele님에 의해 작성
 
 <div class="content-ad"></div>
 
-2018년 <Un Certain Regard>상을 수상한 <Border>와 2022년 <Holy Spider>로 제작된 남자와 함께, <The Apprentice>는 이란-덴마크 출신 감독 압바시의 첫 영어 작품으로 노미네이트되었습니다. 도널드 트럼프와 뉴욕 변호사 로이 코엔의 전문적 관계를 다룬 이 영화는 메인 주연으로 세바스찬 스탠과 함께 제레미 스트롱이 출연합니다. 배우들이 1970년대 초반의 젊은 도널드 트럼프에 대한 다양한 영상 자료를 살펴가며 정확하게 표현했다고 밝혀졌습니다.
+2018년 Un Certain Regard상을 수상한 Border와 2022년 Holy Spider로 제작된 남자와 함께, The Apprentice는 이란-덴마크 출신 감독 압바시의 첫 영어 작품으로 노미네이트되었습니다. 도널드 트럼프와 뉴욕 변호사 로이 코엔의 전문적 관계를 다룬 이 영화는 메인 주연으로 세바스찬 스탠과 함께 제레미 스트롱이 출연합니다. 배우들이 1970년대 초반의 젊은 도널드 트럼프에 대한 다양한 영상 자료를 살펴가며 정확하게 표현했다고 밝혀졌습니다.
 
 <img src="/assets/img/2024-05-18-Cannes2024FilmsYouCanLookForwardTo_1.png" />
 
-Payal Kapadia의 <All We Imagine As Light>
+Payal Kapadia의 All We Imagine As Light
 
-1994년 사하지 엔 카룬이 발표한 <Swaham> 이후 첫 번째 인도 영화입니다. 감독 Kapadia는 2021년 칸영화제에서 단편 영화 <A Night Of Knowing Nothing>로 최고의 다큐멘터리 상인 Golden Eye를 수상했습니다. 그녀의 데뷔 소설 영화는 함께 살고 있는 두 명의 간호사의 이야기로, 서로 다른 사랑 경험을 가지고 삶을 날아가는 모습을 그립니다. 뭄바이의 북적이는 배경 속에 펼쳐지는 영화는 사랑, 상실, 모험을 그린 이야기입니다.
+1994년 사하지 엔 카룬이 발표한 Swaham 이후 첫 번째 인도 영화입니다. 감독 Kapadia는 2021년 칸영화제에서 단편 영화 A Night Of Knowing Nothing로 최고의 다큐멘터리 상인 Golden Eye를 수상했습니다. 그녀의 데뷔 소설 영화는 함께 살고 있는 두 명의 간호사의 이야기로, 서로 다른 사랑 경험을 가지고 삶을 날아가는 모습을 그립니다. 뭄바이의 북적이는 배경 속에 펼쳐지는 영화는 사랑, 상실, 모험을 그린 이야기입니다.
 
 <div class="content-ad"></div>
 
