@@ -3,13 +3,12 @@ title: "고스토어 전자 상거래 경험을 새롭게 정의하다"
 description: ""
 coverImage: "/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_0.png"
 date: 2024-05-27 21:01
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_0.png
 tag: Tech
 originalTitle: "GoStor: Redefining the E-commerce Experience"
 link: "https://medium.com/@nansisingh1809/gostor-redefining-the-e-commerce-experience-64306006c60f"
 ---
-
 
 # 프로젝트 소개
 
@@ -61,7 +60,6 @@ GoStor의 전반적인 사용자 경험 향상을 위해 포괄적인 사용자 
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image](/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_3.png)
 
 ## 02.1: User Persona
@@ -69,7 +67,6 @@ GoStor의 전반적인 사용자 경험 향상을 위해 포괄적인 사용자 
 사용자 페르소나(예: 쉬베타)를 만들면, GoStor가 특정 사용자 요구를 충족시키기 위해 플랫폼을 맞춤화할 수 있어요. 흔한 행동, 요구사항 및 불만을 다루며 전반적인 사용자 경험을 향상시켜요. 이를 통해 다양한 사용자에게 더 사용자 친화적이고 매력적인 플랫폼을 제공할 수 있어요.
 
 ![Image](/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_4.png)
-```
 
 <div class="content-ad"></div>
 
@@ -93,7 +90,6 @@ TV를 구매하려는 사용자를 위해 여정 매핑을 만들었습니다.
 
 <div class="content-ad"></div>
 
-```
 ![Grid Desktop](/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_7.png)
 
 ## 04.1: Grid
@@ -102,7 +98,6 @@ To instill consistency and organization, For Desktop, I implemented a 12-column 
 For Mobile, it’s 5-column grid with a 16 px margin and a 12 px gutter.
 
 ![Grid Mobile](/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_8.png)
-```
 
 <div class="content-ad"></div>
 
@@ -126,12 +121,10 @@ For Mobile, it’s 5-column grid with a 16 px margin and a 12 px gutter.
 
 <div class="content-ad"></div>
 
-```markdown
 ![image 11](/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_11.png)
 ![image 12](/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_12.png)
 ![image 13](/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_13.png)
 ![image 14](/assets/img/2024-05-27-GoStorRedefiningtheE-commerceExperience_14.png)
-```
 
 <div class="content-ad"></div>
 

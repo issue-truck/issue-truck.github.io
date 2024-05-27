@@ -3,13 +3,12 @@ title: "아마존 셀프 출판의 가파른 배움 곡선으로부터 얻은 �
 description: ""
 coverImage: "/assets/img/2024-05-27-HeresWhatILearnedFromTheSteepAmazonSelf-PublishingLearningCurve_0.png"
 date: 2024-05-27 20:12
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-HeresWhatILearnedFromTheSteepAmazonSelf-PublishingLearningCurve_0.png
 tag: Tech
 originalTitle: "Here’s What I Learned From The Steep Amazon Self-Publishing Learning Curve"
 link: "https://medium.com/swlh/heres-what-i-learned-from-the-steep-amazon-self-publishing-learning-curve-9dee52dd3b9c"
 ---
-
 
 나는 아마존 초심자 쇼퍼가 아니에요. 아마존 프라임 라이프스타일로 쇼핑 습관이 변한 건 아니에요.
 
@@ -188,7 +187,6 @@ link: "https://medium.com/swlh/heres-what-i-learned-from-the-steep-amazon-self-p
 
 <div class="content-ad"></div>
 
-```markdown
 ![example image 1](/assets/img/2024-05-27-HeresWhatILearnedFromTheSteepAmazonSelf-PublishingLearningCurve_1.png)
 
 Here is an example I plugged in to show how the template turned out. I downloaded the template, uploaded this file to Canva, and used the dimensions to create my book.
@@ -196,7 +194,6 @@ Here is an example I plugged in to show how the template turned out. I downloade
 ![example image 2](/assets/img/2024-05-27-HeresWhatILearnedFromTheSteepAmazonSelf-PublishingLearningCurve_2.png)
 
 I simplified this process, but I am happy to do a deep dive into the cover-creating process in a dedicated article if you need it.
-```
 
 <div class="content-ad"></div>
 
@@ -214,7 +211,7 @@ I simplified this process, but I am happy to do a deep dive into the cover-creat
 
 아마존에서의 자체 출판의 가장 좋은 점 중 하나는 책의 프로트 코피를 주문할 수 있다는 것입니다. 인쇄 비용과 배송비만 지불하면 됩니다.
 
-내 책의 한 부분을 본격적인 책으로 어떻게 보이는지 보려면 약 7달러가 들었습니다. 내 지역 사무용품 가게에 가서 인쇄와 권장하는 것보다 50달러가 저렴했습니다. 
+내 책의 한 부분을 본격적인 책으로 어떻게 보이는지 보려면 약 7달러가 들었습니다. 내 지역 사무용품 가게에 가서 인쇄와 권장하는 것보다 50달러가 저렴했습니다.
 
 나는 시험용 부분을 완료하지 않고 내 책을 출판하겠다고 생각한 적이 없습니다. 품질 관리의 일환으로, 어떤 비용이 들더라도 먼저 책을 확인할 것이었습니다.
 

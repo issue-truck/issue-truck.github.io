@@ -3,13 +3,12 @@ title: "만 유나이티드가 만 시티를 깜짝 놀라게 했다 저력을 �
 description: ""
 coverImage: "/assets/img/2024-05-27-ManUnitedUpsetsManCityFromUnderdogstoFACupChampions_0.png"
 date: 2024-05-27 20:52
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-ManUnitedUpsetsManCityFromUnderdogstoFACupChampions_0.png
 tag: Tech
 originalTitle: "Man United Upsets Man City. (From Underdogs to FA Cup Champions)"
 link: "https://medium.com/@ripton/man-united-upsets-man-city-from-underdogs-to-fa-cup-champions-8d04daa39158"
 ---
-
 
 ## 축구 | 축구
 
@@ -21,7 +20,6 @@ link: "https://medium.com/@ripton/man-united-upsets-man-city-from-underdogs-to-f
 
 <div class="content-ad"></div>
 
-```markdown
 ![이미지1](/assets/img/2024-05-27-ManUnitedUpsetsManCityFromUnderdogstoFACupChampions_1.png)
 
 그러나 FA컵 결승에서 맨체스터 시티를 정복할 수 있다면, 그들에게는 내년에 유럽에 진입할 수 있는 기회가 열릴 것입니다.
@@ -29,13 +27,12 @@ link: "https://medium.com/@ripton/man-united-upsets-man-city-from-underdogs-to-f
 경기는 매우 잘 시작되었지만, 초반 몇 분 동안 대부분의 시간이 맨체스터 시티에게로 흘러갔습니다. 그들에게는 여느 때처럼 일상적인 비즈니스가 진행되고 있는 것처럼 보였습니다.
 
 ![이미지2](/assets/img/2024-05-27-ManUnitedUpsetsManCityFromUnderdogstoFACupChampions_2.png)
-```
 
 <div class="content-ad"></div>
 
-그러나 맨체스터 유나이티드가 어떤 일이든 발생하며 공격적이 되어서 상대방에게 맞먹는 모습을 보였습니다. 
+그러나 맨체스터 유나이티드가 어떤 일이든 발생하며 공격적이 되어서 상대방에게 맞먹는 모습을 보였습니다.
 
-그들의 노력은 시티의 수비수와 골키퍼 사이의 실수에 일어난 30분의 알레한드로 가르나초의 승리로 이어졌습니다. 
+그들의 노력은 시티의 수비수와 골키퍼 사이의 실수에 일어난 30분의 알레한드로 가르나초의 승리로 이어졌습니다.
 
 하지 않게 됐는데, 맨체스터 유나이티드는 그 후 39분에 맨체스터 유나이티드 시즌에서 놀라운 경기력을 보인 코비 메이누 선수의 훌륭한 결승골로 인해 두 골을 늘렸습니다.
 

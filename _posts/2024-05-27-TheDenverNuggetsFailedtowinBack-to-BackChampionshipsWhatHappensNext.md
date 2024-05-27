@@ -3,15 +3,14 @@ title: "덴버 너겟스가 연달아 우승을 이루지 못했습니다 그 �
 description: ""
 coverImage: "/assets/img/2024-05-27-TheDenverNuggetsFailedtowinBack-to-BackChampionshipsWhatHappensNext_0.png"
 date: 2024-05-27 20:42
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-TheDenverNuggetsFailedtowinBack-to-BackChampionshipsWhatHappensNext_0.png
 tag: Tech
 originalTitle: "The Denver Nuggets Failed to win Back-to-Back Championships. What Happens Next?"
 link: "https://medium.com/@ct.fazio/the-denver-nuggets-failed-to-win-back-to-back-championships-what-happens-next-1514eb271a64"
 ---
 
-
-NBA Championship을 획득하는 것은 매우 어려운 일입니다. Michael Jordan은 자신의 NBA Championship을 경력 7년 만에 획득했습니다. LeBron James는 자신의 첫 NBA 챔피언십을 획득하는 데 9년이 걸렸습니다. Denver Nuggets는 2023년에 역사상 처음으로 NBA 챔피언십을 획득했습니다. 최근 두 번 연속 챔피언십을 차지한 팀은 2018년 Golden State Warriors였습니다. Nuggets에는 그들의 전성기를 맞고 있는 역사적으로 위대한 선수인 니콜라 요키치가 있습니다. 현재 Nuggets가 장기 지속 가능성을 위해 구축됐는지 아니면 NBA 역사상의 장기성을 위한 일시적인 것인지 어떻게 생각하시나요? 
+NBA Championship을 획득하는 것은 매우 어려운 일입니다. Michael Jordan은 자신의 NBA Championship을 경력 7년 만에 획득했습니다. LeBron James는 자신의 첫 NBA 챔피언십을 획득하는 데 9년이 걸렸습니다. Denver Nuggets는 2023년에 역사상 처음으로 NBA 챔피언십을 획득했습니다. 최근 두 번 연속 챔피언십을 차지한 팀은 2018년 Golden State Warriors였습니다. Nuggets에는 그들의 전성기를 맞고 있는 역사적으로 위대한 선수인 니콜라 요키치가 있습니다. 현재 Nuggets가 장기 지속 가능성을 위해 구축됐는지 아니면 NBA 역사상의 장기성을 위한 일시적인 것인지 어떻게 생각하시나요?
 
 위 인용구는 2023년 10월 The Ringer를 통해 발표된 기사에서 나온 것입니다. Nuggets의 GM인 Calvin Booth는 장시간의 102경기 시즌으로 인해 팀이 챔피언으로서 재반복할 것이 어렵다고 인정했습니다. 목표는 장기적인 것이며, Nikola Jokić의 경력 동안 다수의 타이틀을 획득하는 것입니다. 이것이 올바른 접근 방식인가요? 그것은 확인되어야 합니다. 2023-2024 시즌이 반드시 이길 필요는 없었다는 개념은 의문을 제기할 수 있습니다. Nuggets는 서부 콘퍼런스에서 2위를 차지했으며, 미네소타와 7경기를 치룬 뒤 홈에서 부끄러운 결승 패배로 종료되기 전까지 애쓰고 있습니다.
 
@@ -67,7 +66,6 @@ Julian Strawther had a somewhat inconsistent rookie season, appearing in 50 game
 
 <div class="content-ad"></div>
 
-```markdown
 ![image](/assets/img/2024-05-27-TheDenverNuggetsFailedtowinBack-to-BackChampionshipsWhatHappensNext_7.png)
 
 # 늑대는 너겟의 최대 위협입니다
@@ -75,7 +73,6 @@ Julian Strawther had a somewhat inconsistent rookie season, appearing in 50 game
 팀버울브스(Timberwolves)는 서부 콘퍼런스에서 너겟의 최대 위협입니다. 덴버는 앤서니 에드워즈(Anthony Edwards)에게 저항할 것이 없었고, 칼 타운스(Karl Towns)도 멋진 공격 시리즈를 펼쳤습니다. 요키치(Jokic)에게 여러 명의 빅맨을 맞대어 공격을 상당히 늦출 수 있었습니다. 고베르(Gobert)는 고든(Gordon)으로부터 이탈하여 페인트를 혼란스럽게 만들었습니다. 늑대의 벤치도 너겟의 벤치를 크게 앞지르고 있었습니다. 늑대는 머레이(Murray)와 MPJ에게 던질 수 있는 여러 긴 윙스를 보유하고 있었습니다.
 
 너겟의 탑 5를 제외하고도, 챔피언십 이후 로스터의 구성이 달랐습니다. 브루스 브라운(Bruce Brown)과 제프 그린(Jeff Green)이 사라졌는데, 이들은 플레이오프 경기 경험이 많은 베테랑 선수들이었습니다. 그린은 플레이오프에서 신뢰할 수 있는 옵션으로, 칼 타운스에 대항하는 물리적 수비수였습니다. 브라운은 머레이의 온볼(On-ball) 역할을 덜어주고, 동시에 가능한 점에서 수비를 하며, 머레이가 쉴 때 뛰었습니다.
-```
 
 <div class="content-ad"></div>
 

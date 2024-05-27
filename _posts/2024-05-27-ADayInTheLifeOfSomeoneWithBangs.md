@@ -3,7 +3,7 @@ title: "앞머리 있는 사람의 하루"
 description: ""
 coverImage: "/assets/img/2024-05-27-ADayInTheLifeOfSomeoneWithBangs_0.png"
 date: 2024-05-27 20:29
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-ADayInTheLifeOfSomeoneWithBangs_0.png
 tag: Tech
 originalTitle: "A Day In The Life Of Someone With Bangs"
@@ -11,7 +11,6 @@ link: "https://medium.com/slackjaw/a-day-in-the-life-of-someone-with-bangs-25e27
 ---
 
 
-```markdown
 ![A Day In The Life Of Someone With Bangs](/assets/img/2024-05-27-ADayInTheLifeOfSomeoneWithBangs_0.png)
 
 - 7 am: I wake up and stare out the window — a windy winter’s day — my nemesis. A pit of dread fills my stomach knowing what trials my fringe will endure.
@@ -19,7 +18,7 @@ link: "https://medium.com/slackjaw/a-day-in-the-life-of-someone-with-bangs-25e27
 - 7:05 am: I head to the sink basin and wash my fringe for the first time today. Shampoo streams into my eyes as I angle my head underneath the faucet. I hit my forehead hard on the sharp end of the tap. It’ll bruise, but at least my fringe will cover it up.
 
 - 7:10 am: I spend five minutes on the blowout — a real touch-and-go moment where my handiwork could land me looking like Bridgette Bardot or Jim Carrey à la Dumb and Dumber.
-```
+
 
 <div class="content-ad"></div>
 

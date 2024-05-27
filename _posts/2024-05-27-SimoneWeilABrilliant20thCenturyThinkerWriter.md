@@ -3,13 +3,12 @@ title: "시몬 베이 찬란한 20세기 사상가, 작가"
 description: ""
 coverImage: "/assets/img/2024-05-27-SimoneWeilABrilliant20thCenturyThinkerWriter_0.png"
 date: 2024-05-27 20:35
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-SimoneWeilABrilliant20thCenturyThinkerWriter_0.png
 tag: Tech
 originalTitle: "Simone Weil: A Brilliant 20th Century Thinker , Writer"
 link: "https://medium.com/storyangles/simone-weil-a-brilliant-20th-century-thinker-writer-488f83630cdd"
 ---
-
 
 ![사진](/assets/img/2024-05-27-SimoneWeilABrilliant20thCenturyThinkerWriter_0.png)
 
@@ -41,6 +40,4 @@ link: "https://medium.com/storyangles/simone-weil-a-brilliant-20th-century-think
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image](/assets/img/2024-05-27-SimoneWeilABrilliant20thCenturyThinkerWriter_1.png)
-```

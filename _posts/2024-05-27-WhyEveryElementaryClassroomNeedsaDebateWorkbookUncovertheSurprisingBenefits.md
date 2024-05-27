@@ -3,13 +3,12 @@ title: "모든 초등 교실이 토론 워크북이 필요한 이유 놀라운 �
 description: ""
 coverImage: "/assets/img/2024-05-27-WhyEveryElementaryClassroomNeedsaDebateWorkbookUncovertheSurprisingBenefits_0.png"
 date: 2024-05-27 20:34
-ogImage: 
+ogImage:
   url: /assets/img/2024-05-27-WhyEveryElementaryClassroomNeedsaDebateWorkbookUncovertheSurprisingBenefits_0.png
 tag: Tech
 originalTitle: "Why Every Elementary Classroom Needs a Debate Workbook: Uncover the Surprising Benefits"
 link: "https://medium.com/@crowncurriculumonline/why-every-elementary-classroom-needs-a-debate-workbook-uncover-the-surprising-benefits-87a02f49bfd0"
 ---
-
 
 # 초등 교실마다 토론 워크북이 필요한 이유: 놀라운 혜택을 발견해보세요
 
@@ -51,7 +50,6 @@ link: "https://medium.com/@crowncurriculumonline/why-every-elementary-classroom-
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image 1](/assets/img/2024-05-27-WhyEveryElementaryClassroomNeedsaDebateWorkbookUncovertheSurprisingBenefits_4.png)
 
 Strategizing with MCPEDG
@@ -59,7 +57,6 @@ Strategizing with MCPEDG
 ![Image 2](/assets/img/2024-05-27-WhyEveryElementaryClassroomNeedsaDebateWorkbookUncovertheSurprisingBenefits_5.png)
 
 ## Tested on the Battlefield: Strategies That Empower
-```
 
 <div class="content-ad"></div>
 
@@ -83,7 +80,7 @@ Strategizing with MCPEDG
 
 <div class="content-ad"></div>
 
-우리 함께 이 모험을 시작해봐요. Teachers Pay Teachers에서 Crown Academy에서 워크북을 확인해보세요. 함께 빛나는 순간들을 자주 만들고, 더 밝고 잊지 못할 순간들을 만들어봐요. 
+우리 함께 이 모험을 시작해봐요. Teachers Pay Teachers에서 Crown Academy에서 워크북을 확인해보세요. 함께 빛나는 순간들을 자주 만들고, 더 밝고 잊지 못할 순간들을 만들어봐요.
 
 ![Image 7](/assets/img/2024-05-27-WhyEveryElementaryClassroomNeedsaDebateWorkbookUncovertheSurprisingBenefits_7.png)
 
@@ -93,10 +90,8 @@ Strategizing with MCPEDG
 
 <div class="content-ad"></div>
 
-```markdown
 ![Image 1](/assets/img/2024-05-27-WhyEveryElementaryClassroomNeedsaDebateWorkbookUncovertheSurprisingBenefits_10.png)
 
 ![Image 2](/assets/img/2024-05-27-WhyEveryElementaryClassroomNeedsaDebateWorkbookUncovertheSurprisingBenefits_11.png)
 
 Your Passport to Unlocking Potential
-```
